@@ -6,11 +6,14 @@ body {
 }
 #header h1 {
     font-size: 25px;
+    margin: 20px;
 }
 #navbar {
     text-align: center;
     padding: 20px;
     background-color:rgb(207, 252, 237);
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 #navbar a {
     padding-left: 10px;
@@ -19,10 +22,9 @@ body {
     text-decoration: none;
 }
 #article {
-    width: 90%;
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
-    float: left;
 }
 #article h2, h3{
     text-align: center;
@@ -34,10 +36,15 @@ body {
     background-color: rgb(207, 252, 237);
     padding: 20px;
     margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 25px;
 }
 #section p {
+    width: 80%;
     text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
 }
 #table{
     width: 200px;
@@ -52,5 +59,30 @@ body {
     float: right;
 }
 #aside {
-    float: right;
+    background-color: rgb(225, 243, 237);
+    text-align: center;
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 25px;
+}
+#section img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#footer {
+    text-align: right;
+    padding: 10px;
+    background-color:rgb(207, 252, 237);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+h1, h2, h3, h4{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
