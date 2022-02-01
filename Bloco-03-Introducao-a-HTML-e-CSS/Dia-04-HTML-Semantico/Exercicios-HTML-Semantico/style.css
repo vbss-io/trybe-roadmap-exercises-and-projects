@@ -69,6 +69,9 @@ body {
     margin-right: auto;
     border-radius: 25px;
 }
+#aside h3 {
+    font-size: 15px;
+}
 #section img{
     width: 300px;
     margin-left: auto;
@@ -82,7 +85,15 @@ body {
     margin-bottom: 10px;
     margin-top: 10px;
 }
-h1, h2, h3, h4{
+h1, h2, h3 {
     margin-top: 10px;
     margin-bottom: 10px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(0, 141, 141);
+    text-decoration: none;
 }
