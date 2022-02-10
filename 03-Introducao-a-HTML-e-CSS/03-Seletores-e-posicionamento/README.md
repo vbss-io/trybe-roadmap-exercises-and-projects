@@ -7,10 +7,10 @@
 - [X] _Posicionar elementos na página de diferentes formas_
 - [X] _Combinar e agrupar seletores de CSS para criação de regras bem definidas_
 
-### Box Model
-### Posicionamento de Elementos
-### Agrupamento de Seletores e Pseudoclasses
-### Combinação e Classes Descendentes
-### Fixando Conteúdo
+#### Box Model
+#### Posicionamento de Elementos
+#### Agrupamento de Seletores e Pseudoclasses
+#### Combinação e Classes Descendentes
+#### Fixando Conteúdo
 
 ### [...]
