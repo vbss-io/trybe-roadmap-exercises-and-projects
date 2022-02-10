@@ -2,7 +2,7 @@
 
 const paragraph = document.getElementById('paragraph');
 paragraph.style.color = 'red';
-    
+
 const title = document.getElementById('page-title');
 title.innerText = 'Senhor dos Anéis';
 
@@ -29,7 +29,3 @@ subTitle[0].style.color = 'green'
 
 // querySelectorAll
 // Define a regra e a busca retorna uma lista de elementos com base nos sletores CSS
-
-
-
-
