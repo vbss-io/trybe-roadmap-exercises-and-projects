@@ -1,4 +1,4 @@
-## Fixando Conteúdo
+## Fixando Conteúdo - JavaScript - Primeiros Passos
 
 ### Fixando-1.js
 
