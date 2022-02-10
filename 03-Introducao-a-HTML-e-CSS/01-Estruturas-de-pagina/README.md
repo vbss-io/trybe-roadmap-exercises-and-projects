@@ -7,3 +7,5 @@
 - [X] _Utilização de HTML para criar listas, links e adicionar imagens_
 
 ### Primeiras Tags HTML
+
+### [...]
