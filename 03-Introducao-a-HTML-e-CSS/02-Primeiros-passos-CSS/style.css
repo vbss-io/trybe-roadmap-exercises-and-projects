@@ -1,31 +1,38 @@
 h1 {
-    font-size: 65px;
-    color: orange;
-    font-family: sans-serif;
-    text-decoration: underline;
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+  text-decoration: underline;
 }
+
 p {
-    font-weight: 600;
-    font-size:3em;
-    font-style:italic;
+  font-weight: 600;
+  font-size: 3em;
+  font-style: italic;
 }
+
 ul {
-    background-color: orange;
-    line-height: 30px;
+  background-color: orange;
+  line-height: 30px;
 }
+
 .p-and-ul {
-    background-color: orangered;
+  background-color: orangered;
 }
+
 body {
-    font-size: 16px;
-    text-align: center;
+  font-size: 16px;
+  text-align: center;
 }
+
 #yellow {
-    background-color: yellow;
+  background-color: yellow;
 }
+
 #red {
-    background-color: red;
+  background-color: red;
 }
+
 #brown {
-    background-color:brown;
+  background-color: brown;
 }
