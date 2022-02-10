@@ -1,5 +1,5 @@
-# Git & GitHub
+## Git & GitHub
 
 Fixando conteúdo Git & GitHub
 
-# [...]
+### [...]
