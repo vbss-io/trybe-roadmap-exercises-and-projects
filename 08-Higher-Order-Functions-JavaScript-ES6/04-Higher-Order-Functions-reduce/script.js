@@ -124,7 +124,7 @@ function containsA(array) {
 // aqui além de reduce será necessário utilizar também a função map . Dica: Você pode acessar o index do array dentro de map , e você pode ver o
 // objeto esperado na constante expected.
 
-const students = ['Pedro Henrique', 'Miguel', 'Maria Clara'];
+const students = ['Pedro Henrique', 'Miguel Bastos', 'Maria Clara'];
 const grades = [
   [9, 8, 10, 7, 5],
   [10, 9, 9, 10, 8],
