@@ -52,7 +52,12 @@ const fatorial2 = (number) => number > 0 ? number * fatorial2(number - 1) : 1;
 // Crie uma função que receba uma frase e retorne qual a maior palavra.
 
 const longestWord = (phrase) => {
-  console.log(phrase.split(' '));
+  const words = phrase.split(' ');
+  let biggest = words[0];
+  for (let index = 1; index < words.length; index += 1) {
+    (words[index].length > biggest.length) ? biggest = words[index]: biggest;
+  }
+  return console.log(biggest);
 }
 
 longestWord('Antônio foi no banheiro e não sabemos o que aconteceu');
