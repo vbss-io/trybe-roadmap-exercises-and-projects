@@ -56,8 +56,6 @@ const countryCurrency = ({ name, currency }) => console.log(`${name}'s currency 
 
 const printErrorMessage = (error) => console.log(`Error getting country: ${error}`);
 
-// Função delay() no fixando 2.
-
 const getCountry = (onSuccess, onError) => {
   setTimeout(() => {
     const didOperationSucceed = Math.random() >= 0.5;
@@ -80,5 +78,3 @@ getCountry(countryName, printErrorMessage);
 
 // Deve imprimir "Brazil's currency is the Real" no sucesso, ou "Error getting country: Country could not be found" em caso de falha
 getCountry(countryCurrency, printErrorMessage);
-
-// ----------------------------------------------------------------------------------------------------------------------------------------------------
