@@ -1,0 +1,45 @@
+.hello {
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+  color: white;
+  background-color: black;
+  margin-top: 0px;
+  padding: 15px;
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  /* border: 1px solid black; */
+}
+
+.content div {
+  text-align: center;
+  width: 20%;
+  background-color: rgb(83, 101, 102);
+  color: white;
+  padding: 15px;
+  border-radius: 15px;
+  margin: 10px 0;
+}
+
+.footer {
+  display: flex;
+  justify-content: flex-end;
+  color: white;
+  background-color: black;
+  padding: 10px;
+}
