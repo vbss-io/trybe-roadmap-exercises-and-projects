@@ -1,0 +1,17 @@
+.pokemon {
+    width: 50%;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+
+.pokemon .pokemon-info {
+    line-height: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
