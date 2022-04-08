@@ -1,0 +1,49 @@
+button {
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.nav-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-button:disabled,
+.nav-button[disabled]{
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.nav-button {
+    background-color: #4CAF50;
+    transition: all 1s;
+    margin: 10px;
+}
+
+.nav-button:enabled:hover {
+    background-color: #316934;
+}
+
+.type-buttons {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.type-button {
+    width: 100px;
+    padding: 15px 25px;
+    margin: 10px;
+    background-color: rgb(51, 99, 51);
+    transition: all 1s;
+}
+
+.type-button:hover {
+    background-color: rgb(18, 41, 18);
+}
