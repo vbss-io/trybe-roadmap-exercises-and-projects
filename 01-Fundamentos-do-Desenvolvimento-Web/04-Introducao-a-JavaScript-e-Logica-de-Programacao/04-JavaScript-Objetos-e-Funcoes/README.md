@@ -6,6 +6,8 @@
 - [X] _Utilização dos comandos for/in e  for/of_
 - [X] _Funções para organizar e estruturar o código_
 
+
+
 #### Fixando
 Fixando conteúdos de JavaScript - Objetos e Funções
 

@@ -5,6 +5,8 @@
 - [X] _Quebrar grandes problemas em pequenos_
 - [X] _Utilizar lógica de programação na resolução de problemas_
 
+
+
 #### Exercicios.js
 ##### Mais detalhes no script.
 - Algoritmo que retorna o fatorial de um número

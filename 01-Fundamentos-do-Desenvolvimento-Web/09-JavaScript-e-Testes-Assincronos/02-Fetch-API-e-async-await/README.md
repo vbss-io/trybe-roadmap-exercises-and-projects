@@ -6,6 +6,8 @@
 - [X] _Uso async/await em conjunto com try/catch_
 - [X] _Integração com APIs de terceiros_
 
+
+
 #### Entendendo-JSON
 Fixando conteúdo
 

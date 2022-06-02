@@ -6,6 +6,8 @@
 - [X] _Elementos header, nav, aside, article, section, footer, img, ..._
 - [X] _Diferença de elementos de bloco e elementos inline_
 
+
+
 #### Fixando-index.html e Fixando-style.css
 Fixando conteúdo HTML Semântico
 

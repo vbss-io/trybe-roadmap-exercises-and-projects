@@ -7,6 +7,8 @@
 - [X] _Simplificar construção de string usando Template Literals_
 - [X] _Criação de expressões condicionais simplificadas com Ternary Operator_
 
+
+
 #### Fixando
 Fixando Conteúdo - JavaScript ES6
 

@@ -9,6 +9,8 @@
 - [X] _Copiar um objeto usando Object.assign_
 - [X] _Adicionar propriedades a um objeto_
 
+
+
 #### Sum-Calculator
 Calculadora que faz a soma de dois números
 

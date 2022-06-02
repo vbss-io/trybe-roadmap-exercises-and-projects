@@ -6,6 +6,8 @@
 - [X] _Conceitos da linguagem como tipagem dinâmica e operadores lógicos/aritméticos/de atribuição ao código_
 - [X] _Códigos que usam estruturas condicionais, como if/else_
 
+
+
 #### Fixando
 Fixando conteúdos básicos de JavaScript
 
