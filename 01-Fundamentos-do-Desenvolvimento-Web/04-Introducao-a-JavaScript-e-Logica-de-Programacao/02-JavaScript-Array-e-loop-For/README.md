@@ -5,6 +5,8 @@
 - [X] _Manipulação de arrays(listas)_
 - [X] _Utilização do comando for_
 
+
+
 #### Fixando
 Fixando conteúdos de JavaScript - Array e Loop For
 

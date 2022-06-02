@@ -5,6 +5,8 @@
 - [X] _Utilizar funções de diferentes formas_
 - [X] _Reutilização de lógicas de código_
 
+
+
 #### Fixando
 Fixando conteúdo - JavaScript ES6 - Introdução a Higher Order Functions
 

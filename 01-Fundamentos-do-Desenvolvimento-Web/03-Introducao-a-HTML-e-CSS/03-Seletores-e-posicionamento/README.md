@@ -7,6 +7,11 @@
 - [X] _Posicionar elementos na página de diferentes formas_
 - [X] _Combinar e agrupar seletores de CSS para criação de regras bem definidas_
 
+
+
+#### Fixando Conteúdo
+Fixação de conteúdo do dia
+
 #### Box Model
 Fixando conteúdo Box Model
 
@@ -18,6 +23,3 @@ Fixando conteúdo Agrupamento de Seletores e Pseudoclasses e trabalhando paleta 
 
 #### Combinação e Classes Descendentes
 Fixando conteúdo Combinações e Classes Descendentes
-
-#### Fixando Conteúdo
-Fixação de conteúdo do dia

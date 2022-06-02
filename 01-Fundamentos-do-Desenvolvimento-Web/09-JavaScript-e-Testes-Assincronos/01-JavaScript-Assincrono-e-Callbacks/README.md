@@ -7,6 +7,8 @@
 - [X] _Uso do Jest para testar callbacks_
 - [X] _Reaproveitar configurações para diversos testes por meio do uso de beforeEach e afterEach_
 
+
+
 #### Fixando
 Fixando Conteúdo - JavaScript Assíncrono e Callbacks
 

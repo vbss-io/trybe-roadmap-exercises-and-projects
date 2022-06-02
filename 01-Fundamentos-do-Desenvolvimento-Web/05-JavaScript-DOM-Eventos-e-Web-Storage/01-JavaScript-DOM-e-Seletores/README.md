@@ -4,6 +4,8 @@
 
 - [X] _Acessar dados HTML com JavaScript através dos seletores do DOM_
 
+
+
 #### Fixando
 Fixando conteúdos básicos de JavaScript: DOM e Seletores
 

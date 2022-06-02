@@ -7,6 +7,8 @@
 - [X] _some e every para testar se os elementos de um array satisfazem a uma condição_
 - [X] _sort para ordenação de arrays de acordo com algum critério_
 
+
+
 #### Fixando
 Fixando conteúdo - JavaScript ES6 - HOFs forEach, find, some, every e sort
 

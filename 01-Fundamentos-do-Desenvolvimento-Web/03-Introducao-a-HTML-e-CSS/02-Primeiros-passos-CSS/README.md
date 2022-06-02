@@ -7,6 +7,8 @@
 - [X] _Alteração de características da fonte e das cores de páginas web_
 - [X] _CSS inline e externo_
 
+
+
 #### PrimeirasTags-e-CSS.html
 Atualizando _/03-Introdução-a-HTML-e-CSS/01-Estruturas-de-pagina/PrimeirasTags.html_ com CSS inline.
 

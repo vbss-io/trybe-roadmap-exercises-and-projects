@@ -4,5 +4,7 @@
 
 - [X] _reduce para manipulação e construção de arrays_
 
+
+
 #### script.js
 Exercícios JavaScript ES6 - HOFs reduce
