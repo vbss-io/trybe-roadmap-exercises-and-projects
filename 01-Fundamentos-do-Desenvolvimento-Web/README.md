@@ -4,18 +4,18 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 
 ### Hard Skills Desenvolvidas
 
-##### Bloco 1: [Introdução - Unix & Shell]()
+##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/01-Unix-e-Bash)
 
 - [X] 1-3: _Unix & Shell- Part 1_ (Estudo)
 - [X] 1-4: _Unix & Shell- Part 2_ (Estudo)
 
-##### Bloco 2: [Git & GitHub]()
+##### Bloco 2: [Git & GitHub](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/02-Git-GitHub-e-Internet)
 
 - [X] 2-1: _O que é, e para que serve?_ 
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_ (Estudo)
 
-##### Bloco 3: [Introdução - HTML & CSS]()
+##### Bloco 3: [Introdução - HTML & CSS](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS)
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -23,7 +23,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - HTML & CSS]()_
 
-##### Bloco 4: [Introdução - JavaScript]()
+##### Bloco 4: [Introdução - JavaScript e Lógica de Programação](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao)
 
 - [X] 4-1: _JavaScript - Primeiros passos_
 - [X] 4-2: _JavaScript - Array e loop For_
@@ -31,7 +31,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: [JavaScript - DOM, Eventos e Web Storage]()
+##### Bloco 5: [JavaScript - DOM, Eventos e Web Storage](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/05-JavaScript-DOM-Eventos-e-Web-Storage)
 
 - [X] 5-1: _JavaScript - DOM e seletores_
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
@@ -43,7 +43,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: [HTML & CSS - Forms, FlexBox e Responsivo]()
+##### Bloco 6: [HTML & CSS - Forms, FlexBox e Responsivo](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/06-HTML-e-CSS-Forms-Flexbox-e-Responsivo)
 
 - [X] 6-1: _HTML & CSS - Forms_
 - [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -52,14 +52,14 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
 
-##### Bloco 7: [JavaScript ES6 & Testes Unitários]()
+##### Bloco 7: [JavaScript ES6 & Testes Unitários](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/07-Introducao-JavaScript-ES6-e-Testes-Unitarios)
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de Exceção e Objetos_
 - [X] 7-3: _Primeiros passos Jest - Testes unitários em JavaScript_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: [JavaScript ES6 - Higher Order Functions]()
+##### Bloco 8: [JavaScript ES6 - Higher Order Functions](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/08-Higher-Order-Functions-JavaScript-ES6)
 
 - [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
@@ -68,7 +68,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-6: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: [Assincronicidade & Callbacks]()
+##### Bloco 9: [Assincronicidade & Callbacks](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/09-JavaScript-e-Testes-Assincronos)
 
 - [X] 9-1: _JavaScript Assíncrono e Callbacks_
 - [X] 9-2: _Fetch API e async/await_
