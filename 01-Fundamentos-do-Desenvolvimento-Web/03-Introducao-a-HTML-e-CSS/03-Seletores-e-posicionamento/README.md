@@ -1,6 +1,6 @@
-# Introdução a HTML e CSS
+## Hard Skills Desenvolvidas
 
-## Seletores e posicionamento
+### HTML & CSS - Seletores e posicionamento
 
 - [X] _Compreensão de Box Model do CSS_
 - [X] _Relacionamento dos elementos da página visualmente_
@@ -8,9 +8,16 @@
 - [X] _Combinar e agrupar seletores de CSS para criação de regras bem definidas_
 
 #### Box Model
-#### Posicionamento de Elementos
-#### Agrupamento de Seletores e Pseudoclasses
-#### Combinação e Classes Descendentes
-#### Fixando Conteúdo
+Fixando conteúdo Box Model
 
-### [...]
+#### Posicionamento de Elementos
+Fixando conteúdo Posicionamento de Elementos
+
+#### Agrupamento de Seletores e Pseudoclasses
+Fixando conteúdo Agrupamento de Seletores e Pseudoclasses e trabalhando paleta de cores em diferentes divs
+
+#### Combinação e Classes Descendentes
+Fixando conteúdo Combinações e Classes Descendentes
+
+#### Fixando Conteúdo
+Fixação de conteúdo do dia
