@@ -25,5 +25,3 @@
 - [X] _Funções para organizar e estruturar o código_
 
 ### Projeto - Playground Function - Link
-
-### [...]
