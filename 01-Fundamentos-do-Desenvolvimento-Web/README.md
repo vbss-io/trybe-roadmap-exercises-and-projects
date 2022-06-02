@@ -1,23 +1,78 @@
-# JavaScript e Testes Assíncronos
+# Fundamentos do Desenvolvimento Web :white_check_mark:
 
-## Hard Skills Desenvolvidas
+O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira no mundo do desenvolvimento Web, preparando para os módulos de Front-End e Back-End.
 
-### JavaScript Assíncrono e Callbacks
+### Hard Skills Desenvolvidas
 
-- [X] _Aplicação correta de operações assíncronas_
-- [X] _Uso correto de callbacks_
-- [X] _Uso do Jest para testar callbacks_
-- [X] _Reaproveitar configurações para diversos testes por meio do uso de beforeEach e afterEach_
+##### Bloco 1: [Introdução - Unix & Shell]()
 
-### JavaScript Assíncrono - Fetch API e async/wait
+- [X] 1-3: _Unix & Shell- Part 1_ (Estudo)
+- [X] 1-4: _Unix & Shell- Part 2_ (Estudo)
 
-- [X] _Uso de then() e catch()_
-- [X] _Uso async/await em conjunto com try/catch_
-- [X] _Integração com APIs de terceiros_
+##### Bloco 2: [Git & GitHub]()
 
-### Jest - Testes Assíncronos
+- [X] 2-1: _O que é, e para que serve?_ 
+- [X] 2-2: _Entendendo os comandos_
+- [X] 2-3: _Internet - Entendendo como ela funciona_ (Estudo)
 
-- [X] _Testes para códigos assíncronos utilizando async/await_
-- [X] _Divisão das configurações dos testes, em blocos separados, por meio do uso de describe_
+##### Bloco 3: [Introdução - HTML & CSS]()
 
-### Projeto - Carrinho de Compras - Link
+- [X] 3-1: _HTML & CSS - Estruturas de página_
+- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
+- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
+- [X] 3-4: _HTML Semântico_
+- [ ] 3-5: _[Projeto - HTML & CSS]()_
+
+##### Bloco 4: [Introdução - JavaScript]()
+
+- [X] 4-1: _JavaScript - Primeiros passos_
+- [X] 4-2: _JavaScript - Array e loop For_
+- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
+- [X] 4-4: _JavaScript - Objetos e funções_
+- [ ] 4-5: _[Projeto - Playground Functions]()_
+
+##### Bloco 5: [JavaScript - DOM, Eventos e Web Storage]()
+
+- [X] 5-1: _JavaScript - DOM e seletores_
+- [X] 5-2: _JavaScript - Trabalhando com elementos_
+- [X] 5-3: _JavaScript - Eventos_
+- [X] 5-4: _JavaScript - Web Storage_
+- [ ] 5-5: _[Projeto - Meme Generator]()_
+- [ ] 5-6: _[Projeto - Arte com Pixels]()_
+- [ ] 5-7: _[Projeto - Lista de tarefas]()_
+- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+
+##### Bloco 6: [HTML & CSS - Forms, FlexBox e Responsivo]()
+
+- [X] 6-1: _HTML & CSS - Forms_
+- [X] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
+- [X] 6-3: _CSS Flexbox - Part 1_
+- [X] 6-4: _CSS Flexbox - Part 2_
+- [X] 6-5: _CSS Responsivo - Mobile First_
+- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+
+##### Bloco 7: [JavaScript ES6 & Testes Unitários]()
+
+- [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [X] 7-2: _JavaScript ES6 - Fluxo de Exceção e Objetos_
+- [X] 7-3: _Primeiros passos Jest - Testes unitários em JavaScript_
+- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+
+##### Bloco 8: [JavaScript ES6 - Higher Order Functions]()
+
+- [X] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
+- [X] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [X] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [X] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
+- [X] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [ ] 8-6: _[Projeto - Zoo functions]()_
+
+##### Bloco 9: [Assincronicidade & Callbacks]()
+
+- [X] 9-1: _JavaScript Assíncrono e Callbacks_
+- [X] 9-2: _Fetch API e async/await_
+- [X] 9-3: _Jest - Testes Assíncronos_
+- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
+
+# [...]
