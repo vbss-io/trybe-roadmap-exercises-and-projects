@@ -12,4 +12,4 @@ switch (situacao) {
     break;
   default:
     console.log("nao se aplica");
-};
+}

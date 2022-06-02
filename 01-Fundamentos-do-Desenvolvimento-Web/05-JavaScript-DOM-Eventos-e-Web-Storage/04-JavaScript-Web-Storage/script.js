@@ -8,8 +8,8 @@ function getSavedConfigs() {
   if (localStorage !== undefined) {
     text.style.backgroundColor = localStorage.bg;
     text.style.color = localStorage.txtColor;
-    textContet.style.fontSize = localStorage.txtSize;
-    textContet.style.lineHeight = localStorage.spaceLine;
+    textContent.style.fontSize = localStorage.txtSize;
+    textContent.style.lineHeight = localStorage.spaceLine;
   }
 }
 
@@ -31,7 +31,7 @@ configBtn.addEventListener('click', showConfigs);
 const inputBg = document.querySelector('.bg-input');
 const buttonBg = document.querySelector('.bg-btn');
 const text = document.getElementById('text');
-const textContet = document.getElementById('text-content')
+const textContent = document.getElementById('text-content')
 
 function changeBg() {
   const color = inputBg.value;
@@ -65,7 +65,7 @@ function changeFontSize() {
     alert('Tamanho de fonte inválido!');
     inputSizeFont.value = '';
   } else {
-    textContet.style.fontSize = size;
+    textContent.style.fontSize = size;
     localStorage.setItem('txtSize', size);
     inputSizeFont.value = '';
   }
@@ -83,7 +83,7 @@ function changeLineSpace() {
     alert('Tamanho inválido!');
     inputLineSpace.value = '';
   } else {
-    textContet.style.lineHeight = size;
+    textContent.style.lineHeight = size;
     localStorage.setItem('spaceLine', size);
     inputLineSpace.value = '';
   }

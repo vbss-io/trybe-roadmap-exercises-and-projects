@@ -6,5 +6,5 @@ if (a > b) {
 } else if (b > a) {
   console.log("Maior numero (b): ", b);
 } else {
-  console.log("Numeros iguais.");
+  console.log("Números iguais.");
 }

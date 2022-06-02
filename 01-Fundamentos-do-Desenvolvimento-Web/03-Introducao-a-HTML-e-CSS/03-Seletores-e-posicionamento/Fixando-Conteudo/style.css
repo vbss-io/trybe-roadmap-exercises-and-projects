@@ -17,10 +17,13 @@ body {
   line-height: 25px;
 }
 
-.list-tittle {
+.first-title {
+  padding-top: 300px;
+}
+
+.list-title {
   font-size: 25px;
   font-weight: bold;
-  padding-top: 200px;
 }
 
 .img {
