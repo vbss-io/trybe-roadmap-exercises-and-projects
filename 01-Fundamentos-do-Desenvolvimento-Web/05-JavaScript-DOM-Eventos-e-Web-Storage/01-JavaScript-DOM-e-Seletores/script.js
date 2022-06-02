@@ -10,51 +10,51 @@
 //  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
 
 function allPConsoleLog(element) {
- for (let index = 0; index < element.length; index += 1) {
-  console.log(element[index].innerHTML);
- }
+  for (let index = 0; index < element.length; index += 1) {
+    console.log(element[index].innerHTML);
+  }
 
- return true;
+  return true;
 }
 
 function pCapslock(element) {
- return element.innerText = element.innerText.toUpperCase();
+  return (element.innerText = element.innerText.toUpperCase());
 }
 
 function pTextChange(element) {
- let message = 'Nem todos que vagueiam estão perdidos.';
+  let message = "Nem todos que vagueiam estão perdidos.";
 
- return element.innerText = message;
+  return (element.innerText = message);
 }
 
 function pTextChangeName(element) {
- let message = 'J.R.R. Tolkien';
+  let message = "J.R.R. Tolkien";
 
- return element.innerText = message;
+  return (element.innerText = message);
 }
 
 function mainContentColorChange(element) {
- let color = 'rgb(76,164,109)';
+  let color = "rgb(76,164,109)";
 
- return element.style.backgroundColor = color;
+  return (element.style.backgroundColor = color);
 }
 
 function centerContentColorChange(element) {
- let color = 'white';
+  let color = "white";
 
- return element.style.backgroundColor = color;
+  return (element.style.backgroundColor = color);
 }
 
 function h1Correction(element) {
- let correction = 'Exercício 5.1 - JavaScript';
+  let correction = "Exercício 5.1 - JavaScript";
 
- return element.innerText = correction;
+  return (element.innerText = correction);
 }
 
-const mainContent = document.getElementsByClassName('main-content');
-const p = document.getElementsByTagName('p');
-const centerContent = document.getElementsByClassName('center-content');
-const h1 = document.getElementsByClassName('title');
+const mainContent = document.getElementsByClassName("main-content");
+const p = document.getElementsByTagName("p");
+const centerContent = document.getElementsByClassName("center-content");
+const h1 = document.getElementsByClassName("title");
 
 pTextChange(p[0]);
 pTextChangeName(p[2]);

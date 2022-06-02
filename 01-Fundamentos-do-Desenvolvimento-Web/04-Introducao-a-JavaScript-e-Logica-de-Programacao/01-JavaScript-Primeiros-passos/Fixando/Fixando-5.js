@@ -1,7 +1,13 @@
 let weekDay = "domingo";
 
-if (weekDay === "segunda" || weekDay === "terca" || weekDay === "quarta" || weekDay === "quinta" || weekDay === "sexta") {
+if (
+  weekDay === "segunda" ||
+  weekDay === "terça" ||
+  weekDay === "quarta" ||
+  weekDay === "quinta" ||
+  weekDay === "sexta"
+) {
   console.log("dia de trybe");
-} else if (weekDay === "sabado" || weekDay === "domingo") {
+} else if (weekDay === "sábado" || weekDay === "domingo") {
   console.log("descanso");
-};
+}

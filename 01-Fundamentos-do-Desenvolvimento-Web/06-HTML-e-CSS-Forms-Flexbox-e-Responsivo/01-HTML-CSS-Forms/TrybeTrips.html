@@ -1,55 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="TrybeTrips.css" />
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="TrybeTrips.css">
-</head>
+  <body>
+    <section>
+      <h1>Planeje Sua Viagem!</h1>
+      <form action="" method="get">
+        <fieldset>
+          <legend>TrybeTrip</legend>
 
-<body>
+          <label for="name">Nome</label>
+          <input
+            type="text"
+            id="name"
+            placeholder="Digite seu nome"
+            minlength="10"
+            maxlength="40"
+            required
+          /><br /><br />
+          <label for="email">E-mail</label>
+          <input
+            type="email"
+            name="destino"
+            id="email"
+            placeholder="Digite seu E-mail"
+            minlength="10"
+            maxlength="50"
+            required
+          /><br /><br />
 
-  <section>
-    <h1>Planeje Sua Viagem!</h1>
-    <form action="" method="get">
-      <fieldset>
-        <legend>TrybeTrip</legend>
+          <input
+            type="radio"
+            name="destino"
+            id="cidade"
+            value="cidade"
+            required
+            checked
+          />
+          <label for="cidade">Cidade</label>
+          <input
+            type="radio"
+            name="destino"
+            id="campo"
+            value="campo"
+            required
+          />
+          <label for="campo">Campo</label>
+          <input
+            type="radio"
+            name="destino"
+            id="praia"
+            value="praia"
+            required
+          />
+          <label for="praia">Praia</label>
+          <input
+            type="radio"
+            name="destino"
+            id="montanhas"
+            value="montanhas"
+            required
+          />
+          <label for="montanhas">Montanhas</label><br /><br />
 
-        <label for="name">Nome</label>
-        <input type="text" id="name" placeholder="Digite seu nome" minlength="10" maxlength="40" required><br><br>
-        <label for="email">E-mail</label>
-        <input type="email" name="destino" id="email" placeholder="Digite seu E-mail" minlength="10" maxlength="50" required><br><br>
+          <label for="resposta"
+            >Por que você deveria ganhar o concurso TrybeTrip?</label
+          ><br /><br />
+          <textarea
+            name="resposta"
+            id=""
+            cols="30"
+            rows="10"
+            id="resposta"
+            placeholder="Responda aqui!"
+            maxlength="500"
+          ></textarea
+          ><br /><br />
 
-        <input type="radio" name="destino" id="cidade" value="cidade" required checked>
-        <label for="cidade">Cidade</label>
-        <input type="radio" name="destino" id="campo" value="campo" required>
-        <label for="campo">Campo</label>
-        <input type="radio" name="destino" id="praia" value="praia" required>
-        <label for="praia">Praia</label>
-        <input type="radio" name="destino" id="montanhas" value="montanhas" required>
-        <label for="montanhas">Montanhas</label><br><br>
+          <label for="data">Data: </label>
+          <input type="date" name="" id="data" /><br /><br />
 
-        <label for="resposta">Por que você deveria ganhar o concurso TrybeTrip?</label><br><br>
-        <textarea name="resposta" id="" cols="30" rows="10" id="resposta" placeholder="Responda aqui!" maxlength="500"></textarea><br><br>
+          <input type="checkbox" name="oportunidades" id="oportunidades" />
+          <label for="oportunidades"
+            >Gostaria de receber outras oportunidades oferecidas pela
+            Trybe?</label
+          ><br />
+          <input type="checkbox" name="termos" id="termos" required />
+          <label for="termos"
+            >Concordo que imagens das minhas férias poderão ser usadas na
+            divulgação de concursos futuros.</label
+          ><br /><br />
 
-        <label for="data">Data: </label>
-        <input type="date" name="" id="data"><br><br>
+          <button type="submit" id="submit">Enviar</button>
+          <button type="reset" id="reset">Apagar</button>
+        </fieldset>
+      </form>
+    </section>
 
-        <input type="checkbox" name="oprtunidades" id="oportunidades">
-        <label for="oportunidades">Gostaria de receber outras oportunidades oferecidas pela Trybe?</label><br>
-        <input type="checkbox" name="termos" id="termos" required>
-        <label for="termos">Concordo que imagens das minhas férias poderão ser usadas na divulgação de concursos futuros.</label><br><br>
-
-        <button type="submit" id="submit">Enviar</button>
-        <button type="reset" id="reset">Apagar</button>
-
-      </fieldset>
-    </form>
-  </section>
-
-  <script src="TrybeTrips.js"></script>
-</body>
-
+    <script src="TrybeTrips.js"></script>
+  </body>
 </html>

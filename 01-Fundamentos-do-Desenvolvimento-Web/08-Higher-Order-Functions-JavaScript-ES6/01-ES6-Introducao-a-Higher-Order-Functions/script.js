@@ -4,16 +4,16 @@
 // um email no formato nome_da_pessoa@trybe.com .
 
 const createEmail = (name) => {
-  const email = `${name.split(' ').join('_')}@trybe.com`;
+  const email = `${name.split(" ").join("_")}@trybe.com`;
   return email;
-}
+};
 
 const newEmployees = () => {
   const employees = {
-    id1: createEmail('Pedro Guerra'), // Nome: Pedro Guerra -> Chame sua função passando o nome Pedro Guerra como parâmetro, substituindo as aspas
-    id2: createEmail('Luiza Drumond'), // Nome: Luiza Drumond -> Chame sua função passando o nome Luiza Drumond como parâmetro, substituindo as aspas
-    id3: createEmail('Carla Paiva'), // Nome: Carla Paiva -> Chame sua função passando o nome Carla Paiva como parâmetro, substituindo as aspas
-  }
+    id1: createEmail("Pedro Guerra"), // Nome: Pedro Guerra -> Chame sua função passando o nome Pedro Guerra como parâmetro, substituindo as aspas
+    id2: createEmail("Luiza Drumond"), // Nome: Luiza Drumond -> Chame sua função passando o nome Luiza Drumond como parâmetro, substituindo as aspas
+    id3: createEmail("Carla Paiva"), // Nome: Carla Paiva -> Chame sua função passando o nome Carla Paiva como parâmetro, substituindo as aspas
+  };
   return employees;
 };
 
@@ -30,12 +30,12 @@ const employees = newEmployees();
 const checkNumber = (number, random) => number === random;
 
 const result = (number, checkNumber) => {
+  const random = Math.floor(Math.random() * 5 + 1);
 
-  const random = Math.floor((Math.random() * 5) + 1)
-
-  return checkNumber(number, random) ? `Parabéns você ganhou!` : `Tente novamente`;
-
-}
+  return checkNumber(number, random)
+    ? `Parabéns você ganhou!`
+    : `Tente novamente`;
+};
 
 // console.log(result(2, checkNumber));
 
@@ -47,18 +47,18 @@ const result = (number, checkNumber) => {
 // Quando a resposta for correta a contagem sobe 1 ponto, quando for incorreta desce 0.5 pontos, e quando não houver
 // resposta ("N.A") não altera-se a contagem.
 
-const RIGHT_ANSWERS = ['A', 'C', 'B', 'D', 'A', 'A', 'D', 'A', 'D', 'C'];
-const STUDENT_ANSWERS = ['A', 'N.A', 'B', 'D', 'A', 'C', 'N.A', 'A', 'D', 'C'];
+const RIGHT_ANSWERS = ["A", "C", "B", "D", "A", "A", "D", "A", "D", "C"];
+const STUDENT_ANSWERS = ["A", "N.A", "B", "D", "A", "C", "N.A", "A", "D", "C"];
 
 const checkAnswer = (right, student) => {
-  if (student === 'N.A') {
+  if (student === "N.A") {
     return 0;
   }
   if (right === student) {
     return 1;
   }
   return -0.5;
-}
+};
 
 const answersCalculator = (right, student, check) => {
   let result = 0;
@@ -67,6 +67,6 @@ const answersCalculator = (right, student, check) => {
     result += points;
   }
   return result;
-}
+};
 
 console.log(answersCalculator(RIGHT_ANSWERS, STUDENT_ANSWERS, checkAnswer));

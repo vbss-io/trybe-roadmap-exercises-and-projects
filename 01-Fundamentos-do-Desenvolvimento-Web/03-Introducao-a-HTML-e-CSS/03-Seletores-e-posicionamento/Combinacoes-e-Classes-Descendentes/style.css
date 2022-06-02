@@ -12,10 +12,9 @@ ol li:nth-of-type(2n) {
   background-color: rgb(96, 243, 96);
 }
 
-ol li:nth-of-type(2n+1) {
+ol li:nth-of-type(2n + 1) {
   text-transform: uppercase;
 }
-
 
 /*Faça todas as tags Header (h1, h2...) possuírem cor de fonte
 vermelha e, se alguma delas estiver em itálico, aumente seu tamanho
@@ -30,7 +29,6 @@ para 40px e acrescente uma borda de 1px preta e sólida.*/
   border: 1px solid black;
 }
 
-
 /*Faça todas as li's terem 20px de tamanho de fonte e, para
 todo texto em itálico dentro de alguma li, utilize a
 propriedade font-weight para deixá-lo negrito.*/
@@ -43,19 +41,17 @@ li em {
   font-weight: bold;
 }
 
-
 /*Na listagem de linguagens de programação, faça com que as
 3 primeiras da lista possuam cor de fonte azul e, se alguma
 possuir "java*" no texto, utilize uma cor de fundo rosa.*/
 
-ul.languages li:nth-of-type(-n+3) {
+ul.languages li:nth-of-type(-n + 3) {
   color: blue;
 }
 
 ul.languages li.java {
   color: pink;
 }
-
 
 /*Para cada link na lista de aliados da pessoa desenvolvedora,
 faça com que ao passar o mouse sobre cada um, o texto fique

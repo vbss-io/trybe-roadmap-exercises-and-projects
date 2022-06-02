@@ -1,9 +1,9 @@
-const fetch = require('node-fetch');
+const fetch = require("node-fetch");
 
-const fetchJoke = async() => {
-  const url = 'https://api.chucknorris.io/jokes/random?category=dev';
+const fetchJoke = async () => {
+  const url = "https://api.chucknorris.io/jokes/random?category=dev";
 
-  // console.log(fetch(url)); // Promisse { <pending> }
+  // console.log(fetch(url)); // Promises { <pending> }
 
   const result = await fetch(url)
     .then((response) => response.json())
@@ -16,10 +16,10 @@ const fetchJoke = async() => {
   try {
     const response = await fetch(url);
     const data = await response.json();
-    console.log(data.value)
+    console.log(data.value);
   } catch (error) {
     console.log(`Algo deu errado :( \n${error}`);
   }
-}
+};
 
 fetchJoke();

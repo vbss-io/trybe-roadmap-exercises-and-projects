@@ -16,24 +16,26 @@
 //   }
 // testingScope(true);
 
-const testingScope = escopo => {
-    escopo === true ? console.log('Não devo ser utilizada fora do meu escopo (if)') : console.log('Não devo ser utilizada fora meu escopo (else)');
-  }
-  //testingScope(true);
+const testingScope = (escopo) => {
+  escopo === true
+    ? console.log("Não devo ser utilizada fora do meu escopo (if)")
+    : console.log("Não devo ser utilizada fora meu escopo (else)");
+};
+//testingScope(true);
 
 // Utilize template literals para que a chamada console.log(<seu código>oddsAndEvens<seu código>); retorne "Os números 2,3,4,7,10,13 se encontram ordenados de forma crescente!".
 
 const oddsAndEvens = [13, 3, 4, 10, 7, 2];
 
-oddsAndEvens.sort(function(a, b) {
+oddsAndEvens.sort(function (a, b) {
   return a - b;
-})
+});
 
 //console.log(`Os números ${oddsAndEvens} se encontram ordenados de forma crescente!`);
 
 // Crie uma função que receba um número e retorne seu fatorial.
 // Na matemática, o fatorial de um número não negativo N , com a notação N! , é o produto de todos os inteiros menores ou iguais a N . Exemplo: 4! = 4 * 3 * 2 * 1 = 24.
-// Bônus (opcional): tente fazer o mesmo exercício de forma recursiva . Spoiler: É possível resolver com uma linha usando ternary operator .
+// Bonus (opcional): tente fazer o mesmo exercício de forma recursiva . Spoiler: É possível resolver com uma linha usando ternary operator .
 
 const fatorial = (number) => {
   let fat = 1;
@@ -41,23 +43,23 @@ const fatorial = (number) => {
     fat *= index;
   }
   return fat;
-}
+};
 
 //console.log(fatorial(9));
 
-const fatorial2 = (number) => number > 0 ? number * fatorial2(number - 1) : 1;
+const fatorial2 = (number) => (number > 0 ? number * fatorial2(number - 1) : 1);
 
 //console.log(fatorial2(9));
 
 // Crie uma função que receba uma frase e retorne qual a maior palavra.
 
 const longestWord = (phrase) => {
-  const words = phrase.split(' ');
+  const words = phrase.split(" ");
   let biggest = words[0];
   for (let index = 1; index < words.length; index += 1) {
-    (words[index].length > biggest.length) ? biggest = words[index]: biggest;
+    words[index].length > biggest.length ? (biggest = words[index]) : biggest;
   }
   return console.log(biggest);
-}
+};
 
-longestWord('Antônio foi no banheiro e não sabemos o que aconteceu');
+longestWord("Antônio foi no banheiro e não sabemos o que aconteceu");
