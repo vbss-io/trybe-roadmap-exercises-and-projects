@@ -26,15 +26,18 @@ const battleMembers = { mage, warrior, dragon };
 const dragonDamage = (dragonStats) => {
   const min = 15;
   return Math.floor(Math.random() * (dragonStats.strength - min + 1)) + min;
-}
+};
 
 // 2 - Crie uma função que retorna o dano causado pelo warrior .
 // O dano será um número aleatório entre o valor do atributo strength (dano mínimo) e o valor de strength * weaponDmg (dano máximo).
 
 const warriorDamage = (warriorStats) => {
-  const max = (warriorStats.strength * warriorStats.weaponDmg);
-  return Math.floor(Math.random() * (max - warriorStats.strength + 1)) + warriorStats.strength;
-}
+  const max = warriorStats.strength * warriorStats.weaponDmg;
+  return (
+    Math.floor(Math.random() * (max - warriorStats.strength + 1)) +
+    warriorStats.strength
+  );
+};
 
 // 3 - Crie uma função que retorna um objeto com duas chaves e dois valores contendo o dano e a mana gasta pelo mago em um turno.
 // O dano será um número aleatório entre o valor do atributo intelligence (dano mínimo) e o valor de intelligence * 2 (dano máximo).
@@ -46,18 +49,18 @@ const mageDamage = (mageStats) => {
   const intelligence = mageStats.intelligence;
   if (mageMana < 15) {
     const mageResults = {
-      damage: 'Não possui mana suficiente',
+      damage: "Não possui mana suficiente",
       mana: 0,
-    }
+    };
     return mageResults;
   }
   const max = intelligence * 2;
   const mageResults = {
     damage: Math.floor(Math.random() * (max - intelligence + 1)) + intelligence,
     mana: 15,
-  }
+  };
   return mageResults;
-}
+};
 
 // console.log(mageDamage(mage));
 // console.log(dragonDamage(dragon));

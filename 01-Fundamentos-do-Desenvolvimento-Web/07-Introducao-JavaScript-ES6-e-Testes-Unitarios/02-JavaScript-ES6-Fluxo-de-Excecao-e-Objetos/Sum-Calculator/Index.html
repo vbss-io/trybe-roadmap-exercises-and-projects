@@ -1,45 +1,43 @@
 <!DOCTYPE html>
-<html lang='pt-BR'>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora</title>
+    <style>
+      body {
+        text-align: center;
+      }
 
-<head>
-  <meta charset='UTF-8'>
-  <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-  <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-  <title>Calculadora</title>
-  <style>
-    body {
-      text-align: center;
-    }
-    
-    body :nth-child(1) {
-      font-size: 20px;
-      font-weight: bold;
-    }
-    
-    label {
-      font-weight: bold;
-    }
-    
-    #button {
-      margin: 10px;
-      padding: 10px;
-    }
-    
-    #button:hover {
-      color: white;
-      background-color: black;
-    }
-  </style>
-</head>
+      body :nth-child(1) {
+        font-size: 20px;
+        font-weight: bold;
+      }
 
-<body>
-  <p>Informe dois números para realizar a soma:</p>
-  <input type='text' id='value1'>
-  <span>+</span>
-  <input type='text' id='value2'>
-  <button id='button'>Somar</button>
-  <p id='result'></p>
-  <script src="script.js"></script>
-</body>
+      label {
+        font-weight: bold;
+      }
 
+      #button {
+        margin: 10px;
+        padding: 10px;
+      }
+
+      #button:hover {
+        color: white;
+        background-color: black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <p>Informe dois números para realizar a soma:</p>
+    <input type="text" id="value1" />
+    <span>+</span>
+    <input type="text" id="value2" />
+    <button id="button">Somar</button>
+    <p id="result"></p>
+    <script src="script.js"></script>
+  </body>
 </html>

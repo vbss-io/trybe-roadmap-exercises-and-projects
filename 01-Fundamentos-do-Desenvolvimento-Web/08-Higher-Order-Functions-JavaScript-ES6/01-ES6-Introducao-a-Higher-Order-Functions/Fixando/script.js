@@ -2,20 +2,20 @@
 
 const doingThings = (message) => {
   console.log(message);
-}
+};
 
-const wakeUp = () => 'Acordando!!';
+const wakeUp = () => "Acordando!!";
 
 doingThings(wakeUp());
 
 // 2 - Crie outra função que retorne a string 'Bora tomar café!!' ;
 
-const coffe = () => 'Bora tomar café!!';
+const coffee = () => "Bora tomar café!!";
 
-doingThings(coffe());
+doingThings(coffee());
 
 // 3 - Crie mais uma função que retorne a string 'Partiu dormir!!' ;
 
-const sleep = () => 'Partiu dormir!!';
+const sleep = () => "Partiu dormir!!";
 
 doingThings(sleep());
