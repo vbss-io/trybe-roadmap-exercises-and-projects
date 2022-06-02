@@ -31,7 +31,7 @@ const getMarsTemperature = () => {
 const sendMarsTemperature = () => {
   const message = `Mars temperature is: ${getMarsTemperature()} degree Celsius`;
   setTimeout(() => console.log(message), messageDelay());
-}
+};
 
 // sendMarsTemperature();
 
@@ -39,13 +39,15 @@ const sendMarsTemperature = () => {
 // 3 - Agora que você fez a função que envia a temperatura de Marte, suponha que você consiga enviar para o robô Curiosity o que você deseja fazer, uma vez obtida
 // com sucesso a temperatura em Marte. Logo, adicione na função sendMarsTemperature uma callback que contenha as ações a serem tomadas em cima da temperatura.
 
-const toFahrenheit = (degreeCelsius) => (degreeCelsius * 9 / 5) + 32;
+const toFahrenheit = (degreeCelsius) => (degreeCelsius * 9) / 5 + 32;
 
 const temperatureInFahrenheit = (temperature) =>
   console.log(`It is currently ${toFahrenheit(temperature)}ºF at Mars`);
 
 const greet = (temperature) =>
-  console.log(`Hi there! Curiosity here. Right now is ${temperature}ºC at Mars`);
+  console.log(
+    `Hi there! Curiosity here. Right now is ${temperature}ºC at Mars`
+  );
 
 const sendMarsTemperature2 = (callback) => {
   setTimeout(() => callback(getMarsTemperature()), messageDelay());
@@ -67,7 +69,7 @@ const sendMarsTemperature3 = (callback, error) => {
     if (succeed) {
       callback(getMarsTemperature());
     } else {
-      error('Robot is busy!');
+      error("Robot is busy!");
     }
   }, messageDelay());
 };

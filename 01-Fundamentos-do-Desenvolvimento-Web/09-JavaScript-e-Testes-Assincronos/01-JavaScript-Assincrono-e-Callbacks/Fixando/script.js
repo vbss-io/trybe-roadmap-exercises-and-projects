@@ -1,16 +1,18 @@
-// 1 - Adicione uma callback como parâmetro da funcão getUser .
+// 1 - Adicione uma callback como parâmetro da função getUser .
 // No código abaixo você tem a função getUser , que define um objeto com os dados de uma pessoa. Complete a função getUser de forma que ela receba
 // uma função callback como parâmetro para realizar as operações abaixo:
 // Insira o retorno da função getUser ;
 
-const userFullName = ({ firstName, lastName }) => `Hello! My name is ${firstName} ${lastName}`;
-const userNationality = ({ firstName, nationality }) => `${firstName} is ${nationality}`;
+const userFullName = ({ firstName, lastName }) =>
+  `Hello! My name is ${firstName} ${lastName}`;
+const userNationality = ({ firstName, nationality }) =>
+  `${firstName} is ${nationality}`;
 
 const getUser = (callback) => {
   const userToReturn = {
     firstName: "Ivan",
     lastName: "Ivanovich",
-    nationality: "Russian"
+    nationality: "Russian",
   };
   return callback(userToReturn);
 };
@@ -23,10 +25,13 @@ const getUser = (callback) => {
 // No código abaixo você tem a função getUser modificada, que agora funciona de modo assíncrono e imprime dados de uma pessoa depois de um certo tempo.
 // Insira uma callback como parâmetro da função getUser ;
 
-const userFullName2 = ({ firstName, lastName }) => `Hello! My name is ${firstName} ${lastName}`;
-const userNationality2 = ({ firstName, nationality }) => `${firstName} is ${nationality}`;
+const userFullName2 = ({ firstName, lastName }) =>
+  `Hello! My name is ${firstName} ${lastName}`;
+const userNationality2 = ({ firstName, nationality }) =>
+  `${firstName} is ${nationality}`;
 
-const delay = (maxMilliseconds = 5000) => Math.floor(Math.random() * maxMilliseconds);
+const delay = (maxMilliseconds = 5000) =>
+  Math.floor(Math.random() * maxMilliseconds);
 
 const getUser2 = (callback) => {
   setTimeout(() => {
@@ -52,9 +57,11 @@ const getUser2 = (callback) => {
 // Retorne essa callback na função getCountry de forma que trate a mensagem de erro.
 
 const countryName = ({ name }) => console.log(`Returned country is ${name}`);
-const countryCurrency = ({ name, currency }) => console.log(`${name}'s currency is the ${currency}`);
+const countryCurrency = ({ name, currency }) =>
+  console.log(`${name}'s currency is the ${currency}`);
 
-const printErrorMessage = (error) => console.log(`Error getting country: ${error}`);
+const printErrorMessage = (error) =>
+  console.log(`Error getting country: ${error}`);
 
 const getCountry = (onSuccess, onError) => {
   setTimeout(() => {
