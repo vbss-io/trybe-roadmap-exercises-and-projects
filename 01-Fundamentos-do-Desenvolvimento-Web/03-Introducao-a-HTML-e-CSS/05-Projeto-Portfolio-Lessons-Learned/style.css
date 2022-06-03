@@ -1,0 +1,140 @@
+body {
+  background-color: rgb(253, 251, 251);
+  margin: 0;
+}
+
+body,
+#navbar p {
+  font-family: "Gill Sans", "Gill Sans MT", sans-serif;
+}
+
+#cabecalho {
+  background-color: white;
+  color: rgb(37, 0, 29);
+  font-size: 14px;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  width: 100%;
+}
+
+#navbar {
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+#navbar a {
+  color: white;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+
+#navbar a:hover {
+  color: rgb(150, 148, 148);
+}
+
+#section {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 150px;
+  text-align: center;
+  width: 80%;
+}
+
+#minha_foto {
+  height: 300px;
+}
+
+#sobre_mim_dados {
+  height: 300px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 20px;
+}
+
+#sobre_mim th {
+  width: 30px;
+}
+
+#sobre_mim td {
+  width: 500px;
+  padding-left: 20px;
+}
+
+#sobre_mim table,
+th,
+td {
+  /*Referencia border collapse - W3schools*/
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+#licoes_aprendidas {
+  display: inline-block;
+  padding: 0 50px;
+}
+
+#licoes_a_aprender {
+  display: inline-block;
+  padding: 0 50px;
+}
+
+ul,
+ol {
+  text-align: left;
+}
+
+.Line-Height p {
+  line-height: 20px;
+  text-align: justify;
+}
+
+article,
+aside {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 30px 0;
+}
+
+.lado-direito,
+.lado-esquerdo {
+  display: inline-block;
+}
+
+.lado-esquerdo {
+  width: 30%;
+  padding-left: 5%;
+  padding-right: 5%;
+  vertical-align: top;
+}
+
+.lado-direito {
+  width: 30%;
+  padding-left: 5%;
+  padding-right: 5%;
+  vertical-align: top;
+}
+
+#rodape {
+  background-color: black;
+  margin-bottom: 0;
+}
+
+#rodape p {
+  text-align: right;
+  padding: 20px;
+  color: white;
+}
+
+#rodape a {
+  color: white;
+  text-decoration: none;
+}
+
+#rodape a:hover {
+  color: rgb(150, 148, 148);
+}
