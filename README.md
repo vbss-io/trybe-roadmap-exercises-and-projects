@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Fundamentos do Desenvolvimento Web](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web) :white_check_mark:
 
-##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetoss/tree/master/01-Fundamentos-do-Desenvolvimento-Web/01-Unix-e-Bash)
+##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/01-Unix-e-Bash)
 
 - [X] 1-3: _Unix & Shell- Part 1_ (Estudo)
 - [X] 1-4: _Unix & Shell- Part 2_ (Estudo)
