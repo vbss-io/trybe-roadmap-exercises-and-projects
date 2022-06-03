@@ -21,7 +21,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [ ] 3-5: _[Projeto - HTML & CSS]()_
+- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS/05-Projeto-Portfolio-Lessons-Learned)_
 
 ##### Bloco 4: [Introdução - JavaScript e Lógica de Programação](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao)
 
