@@ -24,4 +24,4 @@
 - [X] _Utilização dos comandos for/in e  for/of_
 - [X] _Funções para organizar e estruturar o código_
 
-### Projeto - Playground Function - Link
+### Projeto - Playground Function - [Link](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao/05-Projeto-JavaScript-Playground-Functions)
