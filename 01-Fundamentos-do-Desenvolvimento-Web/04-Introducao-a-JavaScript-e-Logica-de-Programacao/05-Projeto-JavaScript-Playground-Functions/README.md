@@ -9,7 +9,7 @@ Implementação de funções em JavaScript seguindo requisitos do projeto.
 ## Habilidades Desenvolvidas
 
 - [X] Escrever códigos em JavaScript que usam variáveis e tipos primitivos;
-- [X] Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no seu código;
+- [X] Utilizar conceitos da linguagem como a tipagem dinâmica e operadores lógicos/aritméticos/de atribuição no código;
 - [X] Criar códigos que usam estruturas condicionais, como o if/else ;
 - [X] Manipular arrays (listas);
 - [X] Utilizar o comando for ;
