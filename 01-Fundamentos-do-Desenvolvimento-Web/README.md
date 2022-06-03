@@ -29,7 +29,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [X] 4-5: _[Projeto - Playground Functions](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao/05-Projeto-JavaScript-Playground-Functions)_
 
 ##### Bloco 5: [JavaScript - DOM, Eventos e Web Storage](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/05-JavaScript-DOM-Eventos-e-Web-Storage)
 
