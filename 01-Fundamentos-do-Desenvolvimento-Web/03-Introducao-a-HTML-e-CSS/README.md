@@ -28,4 +28,4 @@
 - [X] _Elementos header, nav, aside, article, section, footer, img, ..._
 - [X] _Diferença de elementos de bloco e elementos inline_
 
-### Projeto - Lessons Learned - [Link](https://github.com/vitorbss12/TrybeExercicios/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS/05-Projeto-Portfolio-Lessons-Learned)
+### Projeto - Lessons Learned - [Link](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS/05-Projeto-Portfolio-Lessons-Learned)
