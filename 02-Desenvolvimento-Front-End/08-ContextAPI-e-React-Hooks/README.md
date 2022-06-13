@@ -8,7 +8,8 @@
 
 ### React Hooks - useState e useContext
 
-- [] __
+- [X] _Utilização do React Hook useState_
+- [X] _Utilização do React Hook useContext_
 
 ### React Hooks - useEffect e Hooks Customizados
 
