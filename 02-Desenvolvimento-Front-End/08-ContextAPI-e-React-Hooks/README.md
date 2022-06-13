@@ -4,7 +4,7 @@
 
 ### Context API - React
 
-- [] __
+- [X] _Utilização de Context API do React para gerenciamento de Estado_
 
 ### React Hooks - useState e useContext
 
@@ -12,6 +12,6 @@
 
 ### React Hooks - useEffect e Hooks Customizados
 
-- [] _s_
+- [] __
 
 ### Projeto - StarWars DataTable com Context API e Hooks - Link
