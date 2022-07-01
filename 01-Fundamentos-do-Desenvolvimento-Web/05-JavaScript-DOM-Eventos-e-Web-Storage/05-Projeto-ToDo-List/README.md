@@ -18,7 +18,7 @@ Aplicação desenvolvida para o cadastro e gerenciamento de uma lista de tarefas
 
 💡Veja o resultado a seguir.
 
-![resultado](./resultado.png)
+![resultado](./resultadoTodoList.png)
 
 ### Linter
 
