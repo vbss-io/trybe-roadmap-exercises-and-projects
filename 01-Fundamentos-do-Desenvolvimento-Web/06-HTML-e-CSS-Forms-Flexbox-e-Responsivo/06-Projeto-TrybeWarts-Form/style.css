@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+h1 {
+  text-align: center;
+  margin: 25px 0;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+.header {
+  background-color: rgb(50, 167, 145);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.trybewarts-login {
+  display: flex;
+}
+
+.trybewarts-header-logo {
+  width: 80px;
+}
+
+#trybewarts-header-title {
+  color: white;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+#containerInfo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  text-align: center;
+  align-items: baseline;
+}
+
+#input-name {
+  height: 30px;
+  width: 45%;
+  margin-bottom: 15px;
+  margin-right: 2px;
+}
+
+#input-lastname {
+  height: 30px;
+  width: 45%;
+  margin-bottom: 15px;
+}
+
+#input-email {
+  height: 30px;
+  width: 45%;
+  margin-right: 2px;
+}
+
+#house {
+  height: 35px;
+  width: 40%;
+  font-size: 15px;
+}
+
+#second {
+  display: flex;
+}
+
+#second #family {
+  padding: 10px;
+  display: flex;
+  flex-flow: column wrap;
+  flex-basis: 50%;
+  flex-grow: 1;
+}
+
+#second #family div {
+  margin: 10px 0;
+}
+
+#second #content {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 2;
+}
+
+#second #content #checkbox-container {
+  margin-top: 10px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+#second #content #checkbox-container div {
+  margin: 5px;
+}
+
+#break {
+  flex-basis: 100%;
+  height: 0;
+  padding: 0;
+}
+
+#agreement-container {
+  display: flex;
+  margin: 20px 0;
+  align-items: center;
+}
+
+#agreement-container label {
+  margin-right: 10px;
+}
+
+#submit-btn {
+  padding: 10px;
+}
+
+#containerRate {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: gray;
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  font-size: 25px;
+  padding: 10px;
+}
+
+footer p {
+  color: white;
+}
+
+#textarea {
+  resize: none;
+}
+
+#msgText , #counter {
+  display: flex;
+  justify-content: end;
+  gap: 5px;
+}
