@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [X] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - HTML & CSS](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS/05-Projeto-Portfolio-Lessons-Learned)_
+- [X] 3-5: _[Projeto - HTML & CSS - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS/05-Projeto-Portfolio-Lessons-Learned)_
 
 ##### Bloco 4: [Introdução - JavaScript e Lógica de Programação](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao)
 
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4-2: _JavaScript - Array e loop For_
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [X] 4-4: _JavaScript - Objetos e funções_
-- [X] 4-5: _[Projeto - Playground Functions](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao/05-Projeto-JavaScript-Playground-Functions)_
+- [X] 4-5: _[Projeto - Playground Functions - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/04-Introducao-a-JavaScript-e-Logica-de-Programacao/05-Projeto-JavaScript-Playground-Functions)_
 
 ##### Bloco 5: [JavaScript - DOM, Eventos e Web Storage](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/05-JavaScript-DOM-Eventos-e-Web-Storage)
 
@@ -41,8 +41,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _[Projeto - Lista de tarefas]()_
-- [X] 5-6: _[Projeto - Arte com Pixels](https://vitorbss12.github.io/PixelArtTool-HTML-CSS-JavaScript/) - [Repositório](https://github.com/vitorbss12/PixelArtTool-HTML-CSS-JavaScript)_
+- [X] 5-5: _[Projeto - Lista de tarefas - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/05-JavaScript-DOM-Eventos-e-Web-Storage/05-Projeto-ToDo-List)_
+- [X] 5-6: _[Projeto - Arte com Pixels - Aplicação](https://vitorbss12.github.io/PixelArtTool-HTML-CSS-JavaScript/) - [Repositório](https://github.com/vitorbss12/PixelArtTool-HTML-CSS-JavaScript)_
 
 ##### Bloco 6: [HTML & CSS - Forms, FlexBox e Responsivo](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/06-HTML-e-CSS-Forms-Flexbox-e-Responsivo)
 

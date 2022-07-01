@@ -21,5 +21,5 @@
 - [X] _Manipular o objeto localStorage_
 - [X] _Manipular o objeto sessionStorage_
 
-### Projeto - Lista de Tarefas
+### Projeto - Lista de Tarefas - [Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/05-JavaScript-DOM-Eventos-e-Web-Storage/05-Projeto-ToDo-List)
 ### Projeto - Arte com Pixels - [Aplicação](https://vitorbss12.github.io/PixelArtTool-HTML-CSS-JavaScript/) - [Repositório](https://github.com/vitorbss12/PixelArtTool-HTML-CSS-JavaScript)
