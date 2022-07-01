@@ -35,4 +35,4 @@
 - [X] _Aplicação correta de abbreviation object literal_
 - [X] _Aplicação correta de default params_
 
-### Projeto - Zoo Functions - Link
+### Projeto - Zoo Functions
