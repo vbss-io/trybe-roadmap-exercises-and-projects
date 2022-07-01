@@ -16,6 +16,10 @@ Aplicação desenvolvida para o cadastro e gerenciamento de uma lista de tarefas
 - [X] Funções para tratar os eventos de forma organizada.
 - [X] Salvar e Recuperar dados do LocalStorage.
 
+💡Veja o resultado a seguir.
+
+![resultado](./resultado.png)
+
 ### Linter
 
 Este projeto foi desenvolvido utilizando o linter `ESLint` seguindo as boas práticas definidas na [Trybe](https://www.betrybe.com/).
