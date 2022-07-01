@@ -24,4 +24,4 @@
 - [X] _Aplicação do conceito de TDD, desenvolvimento orientado a testes_
 - [X] _Criação de testes unitários a partir do framework Jest_
 
-### Projeto - JavaScript Testes Unitários - Link
+### Projeto - JavaScript Testes Unitários

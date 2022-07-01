@@ -21,4 +21,5 @@
 - [X] _Manipular o objeto localStorage_
 - [X] _Manipular o objeto sessionStorage_
 
-### Projeto - Arte com Pixels - Link
+### Projeto - Arte com Pixels - [Aplicação](https://vitorbss12.github.io/PixelArtTool-HTML-CSS-JavaScript/) - [Repositório](https://github.com/vitorbss12/PixelArtTool-HTML-CSS-JavaScript)
+### Projeto - Lista de Tarefas
