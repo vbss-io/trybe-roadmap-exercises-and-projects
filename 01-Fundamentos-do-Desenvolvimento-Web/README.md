@@ -15,7 +15,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 2-2: _Entendendo os comandos_
 - [X] 2-3: _Internet - Entendendo como ela funciona_ (Estudo)
 
-##### Bloco 3: [Introdução - HTML & CSS - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS)
+##### Bloco 3: [Introdução - HTML & CSS](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS)
 
 - [X] 3-1: _HTML & CSS - Estruturas de página_
 - [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
