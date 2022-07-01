@@ -47,7 +47,8 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 6-3: _CSS Flexbox - Part 1_
 - [X] 6-4: _CSS Flexbox - Part 2_
 - [X] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [X] 6-6: _[Projeto - TrybeWarts Form - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/06-HTML-e-CSS-Forms-Flexbox-e-Responsivo/06-Projeto-TrybeWarts-Form)_
+
 
 ##### Bloco 7: [JavaScript ES6 & Testes Unitários](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/07-Introducao-JavaScript-ES6-e-Testes-Unitarios)
 
