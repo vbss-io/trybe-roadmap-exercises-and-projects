@@ -41,8 +41,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 5-2: _JavaScript - Trabalhando com elementos_
 - [X] 5-3: _JavaScript - Eventos_
 - [X] 5-4: _JavaScript - Web Storage_
-- [X] 5-5: _[Projeto - Arte com Pixels](https://vitorbss12.github.io/PixelArtTool-HTML-CSS-JavaScript/) - [Repositório](https://github.com/vitorbss12/PixelArtTool-HTML-CSS-JavaScript)_
-- [ ] 5-6: _[Projeto - Lista de tarefas]()_
+- [X] 5-5: _[Projeto - Lista de tarefas]()_
+- [X] 5-6: _[Projeto - Arte com Pixels](https://vitorbss12.github.io/PixelArtTool-HTML-CSS-JavaScript/) - [Repositório](https://github.com/vitorbss12/PixelArtTool-HTML-CSS-JavaScript)_
 
 ##### Bloco 6: [HTML & CSS - Forms, FlexBox e Responsivo](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/06-HTML-e-CSS-Forms-Flexbox-e-Responsivo)
 
