@@ -3,6 +3,7 @@
 ## Hard Skills Desenvolvidas
 
 ### Docker - Introdução
+### Docker - Introdução
 
 - [X] _Compreensão do conceito de empacotamento de aplicações_
 - [X] _Compreensão de o que é Docker e quais problemas ele resolve_
