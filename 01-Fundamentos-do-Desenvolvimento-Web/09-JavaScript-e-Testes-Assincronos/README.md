@@ -20,4 +20,4 @@
 - [X] _Testes para códigos assíncronos utilizando async/await_
 - [X] _Divisão das configurações dos testes, em blocos separados, por meio do uso de describe_
 
-### Projeto - Carrinho de Compras
+### Projeto - Shopping Cart - [Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/09-JavaScript-e-Testes-Assincronos/04-Projeto-Shopping-Cart)
