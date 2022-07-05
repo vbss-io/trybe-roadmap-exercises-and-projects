@@ -23,14 +23,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web"
+    "url": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/09-JavaScript-e-Testes-Assincronos/04-Projeto-Shopping-Cart"
   },
   "author": "Vitor Bastos",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web"
+    "url": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/09-JavaScript-e-Testes-Assincronos/04-Projeto-Shopping-Cart"
   },
-  "homepage": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web#readme",
+  "homepage": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/09-JavaScript-e-Testes-Assincronos/04-Projeto-Shopping-Cart#readme",
   "dependencies": {
     "eslint-config-trybe-fundamentals": "1.1.0",
     "jest": "24.9.0",
