@@ -1,0 +1,40 @@
+{
+  "name": "project-shopping-cart",
+  "version": "1.0.0",
+  "description": "Simulação de um carrinho de compras consumindo a API do Mercado Livre",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js",
+    "lint:styles": "stylelint *.css --config .stylelintrc.json --ignore-disables --allow-empty-input"
+  },
+  "jest": {
+    "coverageReporters": [
+      "text",
+      "html"
+    ],
+    "collectCoverageFrom": [
+      "**/helpers/**"
+    ],
+    "testMatch": [
+      "**/tests/**/*.test.js?(x)"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web"
+  },
+  "author": "Vitor Bastos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web"
+  },
+  "homepage": "https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web#readme",
+  "dependencies": {
+    "eslint-config-trybe-fundamentals": "1.1.0",
+    "jest": "24.9.0",
+    "stylelint": "13.8.0",
+    "stylelint-config-standard": "20.0.0"
+  }
+}
