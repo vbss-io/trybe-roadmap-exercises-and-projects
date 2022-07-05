@@ -9,7 +9,7 @@ O Módulo de Back-End aprofunda em tecnologias como Docker, MySQL, Node.js, Type
 - [ ] 19-1: _Utilizando Containers - Docker_
 - [ ] 19-2: _Manipulando Imagens no Docker_
 - [ ] 19-3: _Orquestrando COntainers com Docker Compose_
-- [ ] 19-4: _[Projeto - Docker Todo-List]_
+- [ ] 19-4: _[Projeto - Docker Todo-List] - Em Breve_
 
 ##### Bloco 20: Introdução à SQL
 
