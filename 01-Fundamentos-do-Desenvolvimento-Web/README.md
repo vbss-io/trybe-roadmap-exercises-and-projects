@@ -6,14 +6,14 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 
 ##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/01-Unix-e-Bash)
 
-- [X] 1-3: _Unix & Shell- Part 1_ (Estudo)
-- [X] 1-4: _Unix & Shell- Part 2_ (Estudo)
+- [X] 1-3: _Unix & Shell- Part 1_
+- [X] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: [Git & GitHub](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/02-Git-GitHub-e-Internet)
 
 - [X] 2-1: _O que é, e para que serve?_ 
 - [X] 2-2: _Entendendo os comandos_
-- [X] 2-3: _Internet - Entendendo como ela funciona_ (Estudo)
+- [X] 2-3: _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3: [Introdução - HTML & CSS](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/03-Introducao-a-HTML-e-CSS)
 
