@@ -1,0 +1,99 @@
+/* For mobile Phones */
+@media only screen and (max-width: 499px) {
+  header {
+    font-size: 0.8rem;
+    text-align: center;
+  }
+
+  article p {
+    font-size: 1rem;
+    text-align: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+  }
+
+  main h2 {
+    font-size: 1.2rem;
+    text-align: center;
+  }
+
+  figure img {
+    width: 100%;
+  }
+
+  figure figcaption {
+    text-align: center;
+  }
+}
+
+/* For Tablets  */
+@media only screen and (min-width: 500px) {
+  header {
+    text-align: center;
+    font-size: 0.9rem;
+  }
+  
+  article p {
+    font-size: 1.1rem;
+    padding-right: 2rem;
+    text-align: center;
+    padding-left: 2rem;
+  }
+  
+  main h2 {
+    text-align: center;
+    font-size: 1.2rem;
+  }
+
+  section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+  figure {
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+  }
+
+  figure img {
+    width: 100%;
+  }
+}
+
+/* For Desktop */
+@media only screen and (min-width: 894px) {
+  header {
+    text-align: center;
+    font-size: 1rem;
+  }
+  
+  article p {
+    font-size: 1.3rem;
+    padding-right: 2rem;
+    text-align: center;
+    padding-left: 2rem;
+  }
+  
+  main h2 {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  section {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+  figure {
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+  }
+
+  figure img {
+    width: 100%;
+  }
+}

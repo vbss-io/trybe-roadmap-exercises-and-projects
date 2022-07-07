@@ -12,4 +12,5 @@
 #### Fixando
 Fixando Conteúdo - CSS Responsivo - Mobile First
 
-...
+#### Exercício
+Adaptando uma página para tela pequena, média e grande
