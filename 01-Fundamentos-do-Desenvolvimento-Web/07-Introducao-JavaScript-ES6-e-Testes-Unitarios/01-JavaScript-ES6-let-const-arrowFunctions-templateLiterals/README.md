@@ -14,5 +14,3 @@ Fixando Conteúdo - JavaScript ES6
 
 #### ClickCount
 Página que conta os cliques de um botão
-
-...
