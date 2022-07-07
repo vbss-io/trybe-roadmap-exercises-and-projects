@@ -16,5 +16,3 @@ Calculadora que faz a soma de dois números
 
 #### Part-1.js e Part2.js
 Fixando conteúdo - JavaScript ES6
-
-...
