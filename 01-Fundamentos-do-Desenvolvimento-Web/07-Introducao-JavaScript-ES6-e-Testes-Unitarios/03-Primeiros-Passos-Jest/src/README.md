@@ -9,3 +9,6 @@ Função que faz o fizzbuzz
 
 ### searchEmployee.js
 Função que busca um funcionário pelo id
+
+### encodeDecode.js
+Função que codifica e decodifica uma string
