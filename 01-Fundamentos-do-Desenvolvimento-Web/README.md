@@ -55,7 +55,7 @@ O Módulo de Fundamentos passa pelos pontos essenciais para iniciar a carreira n
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 7-2: _JavaScript ES6 - Fluxo de Exceção e Objetos_
 - [X] 7-3: _Primeiros passos Jest - Testes unitários em JavaScript_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [X] 7-4: _[Projeto - JavaScript Testes Unitários - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/07-Introducao-JavaScript-ES6-e-Testes-Unitarios/04-Projeto-JavaScript-Tests)_
 
 ##### Bloco 8: [JavaScript ES6 - Higher Order Functions](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/08-Higher-Order-Functions-JavaScript-ES6)
 
