@@ -138,13 +138,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 19-1: _Docker - Introdução_
 - [X] 19-2: _Manipulando Imagens no Docker_
-- [ ] 19-3: _Orquestrando COntainers com Docker Compose_
-- [ ] 19-4: _[Projeto - Docker Todo-List] - Em Breve_
+- [X] 19-3: _Orquestrando COntainers com Docker Compose_
+- [X] 19-4: _[Projeto - Docker Todo-List] - Em Breve_
 
 ##### Bloco 20: Introdução à SQL
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
+- [X] 20-1: _Banco de dados SQL_
+- [X] 20-2: _Encontrando dados em um banco de dados_
 - [ ] 20-3: _Filtrando dados de forma especí­fica_
 - [ ] 20-4: _Manipulando tabelas_
 - [ ] 20-5: _[Projeto - All For One] - Em Breve_
