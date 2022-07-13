@@ -10,3 +10,7 @@
 
 #### exercicios.sql
 Fixando conceitos básicos de MySQL
+
+
+#### Docker-e-MySQL
+Criando um ambiente de testes MySQL com Docker
