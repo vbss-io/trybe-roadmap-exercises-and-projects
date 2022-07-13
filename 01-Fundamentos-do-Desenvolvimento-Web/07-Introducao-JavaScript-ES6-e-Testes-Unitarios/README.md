@@ -24,4 +24,4 @@
 - [X] _Aplicação do conceito de TDD, desenvolvimento orientado a testes_
 - [X] _Criação de testes unitários a partir do framework Jest_
 
-### Projeto - JavaScript Testes Unitários
+### Projeto - JavaScript Testes Unitários - [Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/07-Introducao-JavaScript-ES6-e-Testes-Unitarios/04-Projeto-JavaScript-Tests)
