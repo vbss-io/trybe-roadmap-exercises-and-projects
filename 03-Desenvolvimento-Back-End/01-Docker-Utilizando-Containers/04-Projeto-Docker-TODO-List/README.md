@@ -21,7 +21,3 @@ Essa aplicação é uma ToDo list com front-end, back-end e tests.
 - A aplicação Todo list foi desenvolvida e fornecida pela [Trybe](https://www.betrybe.com/).
 - Cada camada do projeto teve um Dockerfile desenvolvido por mim.
 - A orquestração da aplicação foi desenvolvida completamente por mim usando Docker Compose.
-
-### Linter
-
-Este projeto foi desenvolvido utilizando o linter `ESLint` seguindo as boas práticas definidas na [Trybe](https://www.betrybe.com/).
