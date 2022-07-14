@@ -1,0 +1,8 @@
+4) Execute o comando cat /etc/os-release no container 01container sem se acoplar a ele
+
+Comando
+----------------------------------------------------
+
+docker exec 01container cat /etc/os-release
+
+----------------------------------------------------

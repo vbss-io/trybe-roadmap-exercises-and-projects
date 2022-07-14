@@ -1,0 +1,8 @@
+11) Gere uma build a partir do Dockerfile dos testes do todo-app nomeando a imagem para todotests
+
+Comando
+----------------------------------------------------
+
+docker build -t todotests ./todo-app/tests
+
+----------------------------------------------------

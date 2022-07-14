@@ -1,0 +1,8 @@
+8) Pare o container 02images que está em andamento
+
+Comando
+----------------------------------------------------
+
+docker container stop 02images
+
+----------------------------------------------------
