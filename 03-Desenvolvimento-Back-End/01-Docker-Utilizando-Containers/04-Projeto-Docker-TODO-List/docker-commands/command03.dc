@@ -1,0 +1,8 @@
+3) Liste os containers filtrando pelo nome 01container
+
+Comando
+----------------------------------------------------
+
+docker container ls --filter name=01container
+
+----------------------------------------------------

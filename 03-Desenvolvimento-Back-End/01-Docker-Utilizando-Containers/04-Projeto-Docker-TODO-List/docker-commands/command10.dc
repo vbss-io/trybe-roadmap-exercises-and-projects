@@ -1,0 +1,8 @@
+10) Gere uma build a partir do Dockerfile do front-end do todo-app nomeando a imagem para todofrontend
+
+Comando
+----------------------------------------------------
+
+docker build -t todofrontend ./todo-app/front-end
+
+----------------------------------------------------
