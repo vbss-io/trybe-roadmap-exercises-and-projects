@@ -30,3 +30,9 @@
 - [X] _Criar consultas mais dinâmicas e maleáveis com LIKE_
 - [X] _Fazer consultas que englobam uma faixa de resultados con IN e BETWEEN_
 - [X] _Encontrar e separar resultados que incluem datas_
+
+### Manipulando Tabelas
+
+- [X] _Inserir de dados em tabelas com INSERT_
+- [X] _Atualizar dados em tabelas com UPDATE_
+- [X] _Apagar dados em tabelas com DELETE_
