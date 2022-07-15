@@ -22,3 +22,17 @@
 - [X] _Limitar a quantidade de resultados em uma consulta com LIMIT_
 - [X] _Pular resultados em uma consulta com OFFSET_
 - [X] _Ordenar os resultados de uma consulta com ORDER BY_
+
+### Filtrando Dados de Forma Específica
+
+- [X] _Filtrar resultados de consultas com WHERE_
+- [X] _Utilizar operadores booleanos e relacionais em consultas_
+- [X] _Criar consultas mais dinâmicas e maleáveis com LIKE_
+- [X] _Fazer consultas que englobam uma faixa de resultados con IN e BETWEEN_
+- [X] _Encontrar e separar resultados que incluem datas_
+
+### Manipulando Tabelas
+
+- [X] _Inserir de dados em tabelas com INSERT_
+- [X] _Atualizar dados em tabelas com UPDATE_
+- [X] _Apagar dados em tabelas com DELETE_
