@@ -21,7 +21,7 @@ O Módulo de Back-End aprofunda em tecnologias como Docker, MySQL, Node.js, Type
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
-- [ ] 21-1: _Funções mais usadas no SQL_
+- [X] 21-1: _Funções mais usadas no SQL_
 - [ ] 21-2: _Descomplicando JOINs_
 - [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
 - [ ] 21-4: _[Projeto - One For All] - Em Breve_
