@@ -26,3 +26,5 @@ Fixando funções de agregação SQL
 
 #### fixandoGROUPBY-HAVING.sql
 Fixando GROUP BY e HAVING
+
+#### incompleto

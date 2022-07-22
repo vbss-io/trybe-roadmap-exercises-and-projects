@@ -10,3 +10,9 @@
 - [X] _Extração de informações específicas sobre datas de uma tabela_
 - [X] _Utilizar funções de agregação AVG, MIN, MAX, SUM e COUNT_
 - [X] _Exibir e filtrar dados de forma agrupada com GROUP BY e HAVING_
+
+### Descomplicando JOINs
+
+- [X] _Utilizar INNER JOIN para combinar dados de duas ou mais tabelas_
+- [X] _Utilizar LEFT JOIN e RIGHT JOIN para combinar dados de duas ou mais tabelas_
+- [X] _Utilizar SELF JOIN para fazer join de uma tabela com ela própria_
