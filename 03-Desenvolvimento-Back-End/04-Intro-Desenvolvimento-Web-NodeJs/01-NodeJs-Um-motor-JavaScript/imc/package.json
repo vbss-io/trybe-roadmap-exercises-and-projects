@@ -1,0 +1,16 @@
+{
+  "name": "imc",
+  "version": "1.0.0",
+  "description": "Calculo de IMC",
+  "main": "imc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "imc": "node imc.js"
+  },
+  "keywords": [],
+  "author": "Vitor Bastos",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

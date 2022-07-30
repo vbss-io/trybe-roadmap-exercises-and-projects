@@ -7,5 +7,14 @@
 - [X] _Utilizar o sistema de módulos do Node.js_
 - [X] _Criar scripts simples, com interação do usuário, com Node.js_
 
-#### ...
-...
+#### hello-world
+Primeiro script simples, com interação do usuário, com Node.js
+
+#### simple-calculator
+Calculadora simples utilizando readline-sync
+
+#### imc
+Calculadora de IMC
+
+#### guess-the-number
+Jogo de adivinhação

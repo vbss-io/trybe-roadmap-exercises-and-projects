@@ -1,0 +1,16 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "Calculadora com 4 operações",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Vitor Bastos",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
