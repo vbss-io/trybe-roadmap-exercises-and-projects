@@ -5,8 +5,3 @@
 - [X] _map para manipular e construir arrays_
 - [X] _filter para filtrar arrays_
 - [X] _Uso de forma conjunta das HOFs_
-
-
-
-#### script.js
-Exercícios JavaScript ES6 - HOFs map e filter

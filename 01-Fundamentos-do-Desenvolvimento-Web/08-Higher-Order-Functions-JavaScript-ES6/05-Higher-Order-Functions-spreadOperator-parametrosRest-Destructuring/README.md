@@ -9,6 +9,3 @@
 - [X] _Aplicação correta de default destructuring_
 - [X] _Aplicação correta de abbreviation object literal_
 - [X] _Aplicação correta de default params_
-
-#### script.js
-Exercícios JavaScript ES6 - spread Operator, parâmetros rest, destructuring, ...
