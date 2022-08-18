@@ -16,7 +16,7 @@ O Módulo de Front-End se aprofunda no desenvolvimento de aplicações Front-End
 - [X] 11-2: _Formulários no React_
 - [X] 11-3: _[Projeto - TryUnfo] - Em Breve_
 
-##### Bloco 12: [Ciclo de Vida de COmponentes e React Router](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/03-Ciclo-de-vida-Componentes-e-React-Router)
+##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/03-Ciclo-de-vida-Componentes-e-React-Router)
 
 - [X] 12-1: _Ciclo de vida de componentes_
 - [X] 12-2: _React Router_
