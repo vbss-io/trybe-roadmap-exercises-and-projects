@@ -1,4 +1,4 @@
-# JavaScript ES6 - Higher Order Functions
+# JavaScript ES6 - Assincronicidade e Callbacks
 
 ## Hard Skills Desenvolvidas
 
