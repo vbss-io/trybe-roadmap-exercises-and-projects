@@ -90,7 +90,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 11-2: _Formulários no React_
 - [X] 11-3: _[Projeto - TryUnfo] - Em Breve_
 
-##### Bloco 12: [Ciclo de Vida de COmponentes e React Router](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/03-Ciclo-de-vida-Componentes-e-React-Router)
+##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/03-Ciclo-de-vida-Componentes-e-React-Router)
 
 - [X] 12-1: _Ciclo de vida de componentes_
 - [X] 12-2: _React Router_
@@ -138,7 +138,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 19-1: _Docker - Introdução_
 - [X] 19-2: _Manipulando Imagens no Docker_
-- [X] 19-3: _Orquestrando COntainers com Docker Compose_
+- [X] 19-3: _Orquestrando Containers com Docker Compose_
 - [X] 19-4: _[Projeto - Docker Todo-List - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/03-Desenvolvimento-Back-End/01-Docker-Utilizando-Containers/04-Projeto-Docker-TODO-List)_
 
 ##### Bloco 20: Introdução à SQL
