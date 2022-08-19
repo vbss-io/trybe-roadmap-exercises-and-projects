@@ -1,4 +1,4 @@
-# Desenvolvimento Web - Back-End :white_check_mark:
+# Desenvolvimento Web - Back-End :hourglass_flowing_sand:
 
 O Módulo de Back-End aprofunda em tecnologias como Docker, MySQL, Node.js, TypeScript e MongoDb.
 
