@@ -30,5 +30,4 @@
 - [X] _Criação de arquivos compose para gerenciar todo o ambiente com containers_
 - [X] _Entender e gerenciar Services, Network e Volumes, que são novos conceitos trazidos pelo Docker Compose_
 
-
 ### Projeto - Docker TODO List - [Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/03-Desenvolvimento-Back-End/01-Docker-Utilizando-Containers/04-Projeto-Docker-TODO-List)

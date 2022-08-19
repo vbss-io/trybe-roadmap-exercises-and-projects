@@ -147,31 +147,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 20-2: _Encontrando dados em um banco de dados_
 - [X] 20-3: _Filtrando dados de forma especí­fica_
 - [X] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One] - Em Breve_
+- [X] 20-5: _[Projeto - All For One] - Em Breve_
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
 - [X] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs_
-- [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 21-4: _[Projeto - One For All] - Em Breve_
+- [X] 21-2: _Descomplicando JOINs_
+- [X] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [X] 21-4: _[Projeto - One For All] - Em Breve_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
-- [ ] 22-1: _Node.js - Um motor JavaScript_
-- [ ] 22-2: _Node.js - Fluxo Assíncrono_
-- [ ] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
-- [ ] 22-4: _Express - HTTP com Node.js_
-- [ ] 22-5: _Express - Middlewares_
-- [ ] 22-6: _[Projeto - Talker Manager] - Em Breve_
+- [X] 22-1: _Node.js - Runtime Assíncrono_
+- [X] 22-2: _Node.js - API REST com Express_
+- [X] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [X] 22-4: _Express - Middlewares_
+- [X] 22-5: _Node.js - Express e MySql_
+- [X] 22-6: _[Projeto - Talker Manager] - Em Breve_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
-- [ ] 23-1: _Arquitetura de Software - Camada de Model_
-- [ ] 23-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 23-3: _Arquitetura Web - Rest e Restful_
-- [ ] 23-4: _Arquitetura de Software - Testando as Camadas_
-- [ ] 23-5: _[Projeto - Store Manager] - Em Breve_
+- [X] 23-1: _Arquitetura de Software - Camada de Model_
+- [X] 23-2: _Arquitetura de Software - Camada de Controller e Service_
+- [X] 23-3: _Arquitetura Web - Rest e Restful_
+- [X] 23-4: _Arquitetura de Software - Testando as Camadas_
+- [X] 23-5: _[Projeto - Store Manager] - Em Breve_
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 
