@@ -1,6 +1,6 @@
-# Encontrando Dados em um Banco de Dados
-
 ## Hard Skills Desenvolvidas
+
+### Encontrando Dados em um Banco de Dados
 
 - [X] _Compreensão do que é uma query SQL e quais são seus tipos de comandos_
 - [X] _Gerar valores com SELECT_
@@ -12,9 +12,3 @@
 - [X] _Limitar a quantidade de resultados em uma consulta com LIMIT_
 - [X] _Pular resultados em uma consulta com OFFSET_
 - [X] _Ordenar os resultados de uma consulta com ORDER BY_
-
-#### fixando.sql
-Fixando comandos SQL
-
-#### exercicios.sql
-Exercícios usando Banco de Dados SQL
