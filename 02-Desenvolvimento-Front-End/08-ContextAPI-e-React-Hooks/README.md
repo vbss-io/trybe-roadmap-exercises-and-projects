@@ -16,4 +16,4 @@
 - [X] _Utilização do React Hook useEffect_
 - [X] _Utilização de Hooks Customizados_
 
-### Projeto - StarWars DataTable com Context API e Hooks - Em Breve
+### [Projeto - StarWars DataTable com Context API e Hooks - Aplicação](https://vitorbss12.github.io/StarWars-React-DataTable/) - [Repositório](https://github.com/vitorbss12/StarWars-React-DataTable)
