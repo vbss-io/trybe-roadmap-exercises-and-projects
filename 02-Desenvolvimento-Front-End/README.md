@@ -52,7 +52,7 @@ O Módulo de Front-End se aprofunda no desenvolvimento de aplicações Front-End
 - [X] 17-1: _Context API do React_
 - [X] 17-2: _React Hooks - useState e useContext_
 - [X] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [X] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks] - Em Breve_
+- [X] 17-4: _[Projeto - StarWars DataTable com Context API e Hooks - Aplicação](https://vitorbss12.github.io/StarWars-React-DataTable/) - [Repositório](https://github.com/vitorbss12/StarWars-React-DataTable)_
 
 ##### Bloco 18: [Projeto Final de Front-end](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/09-Projeto-App-de-Receitas)
 
