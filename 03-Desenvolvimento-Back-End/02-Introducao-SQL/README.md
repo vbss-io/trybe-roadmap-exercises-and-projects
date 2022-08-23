@@ -37,4 +37,4 @@
 - [X] _Atualizar dados em tabelas com UPDATE_
 - [X] _Apagar dados em tabelas com DELETE_
 
-### Projeto - All For One - Em breve
+### Projeto - All For One - [Repositório](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/02-Introducao-SQL/05-Projeto-All-For-One-MySQL)

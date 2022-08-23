@@ -147,7 +147,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 20-2: _Encontrando dados em um banco de dados_
 - [X] 20-3: _Filtrando dados de forma especí­fica_
 - [X] 20-4: _Manipulando tabelas_
-- [X] 20-5: _[Projeto - All For One] - Em Breve_
+- [X] 20-5: _[Projeto - All For One - Repositório](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/02-Introducao-SQL/05-Projeto-All-For-One-MySQL)_
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
