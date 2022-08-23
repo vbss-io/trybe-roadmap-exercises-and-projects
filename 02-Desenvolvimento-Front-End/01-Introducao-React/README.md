@@ -21,4 +21,4 @@
 - [X] _Utilizar PropTypes para checar que uma prop é um objeto de formato específico_
 - [X] _Utilizar PropTypes para garantir que uma prop é um array com elementos de um determinado tipo_
 
-### Projeto - Sistema Solar - Em breve
+### Projeto - Sistema Solar - [Repositório](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/01-Introducao-React/03-Projeto-Sistema-Solar-React)
