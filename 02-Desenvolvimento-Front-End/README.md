@@ -8,7 +8,7 @@ O Módulo de Front-End se aprofunda no desenvolvimento de aplicações Front-End
 
 - [X] 10-1: _'Hello, world!' no React!_
 - [X] 10-2: _Componentes React_
-- [X] 10-3: _[Projeto - Solar System] - Em Breve_
+- [X] 10-3: _[Projeto - Solar System - Repositório](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/01-Introducao-React/03-Projeto-Sistema-Solar-React)_
 
 ##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/02-Componentes-com-estado-Eventos-e-Forms-com-React)
 
