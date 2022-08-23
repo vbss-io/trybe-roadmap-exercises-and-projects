@@ -1,0 +1,8 @@
+.footer {
+  background-color: rgb(255, 255, 255, 0.5);
+  font-family: roboto , sans-serif;
+  font-weight: 700;
+  margin-top: 20px;
+  padding: 20px;
+  text-align: end;
+}
