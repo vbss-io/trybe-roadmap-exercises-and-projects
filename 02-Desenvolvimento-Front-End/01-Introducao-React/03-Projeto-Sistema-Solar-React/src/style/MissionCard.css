@@ -1,0 +1,28 @@
+.mission-card {
+  display: flex;
+  flex-flow: column;
+  flex-grow: 1;
+  font-family: Roboto , sans-serif;
+  margin: 0 15px;
+  margin-bottom: 15px;
+  width: 25%;
+}
+
+.mission-name {
+  background-color: rgb(0, 0, 0, 0.8);
+  border-bottom: 1px solid white;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  color: white;
+  font-weight: 700;
+  padding: 15px;
+}
+
+.mission-details {
+  background-color: rgb(0, 0, 0, 0.5);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  color: white;
+  line-height: 20px;
+  padding: 15px;
+}
