@@ -53,9 +53,9 @@ O Módulo de Back-End aprofunda em tecnologias como Docker, MySQL, Node.js, Type
 
 ##### Bloco 25: Deployment
 
-- [ ] 25-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 25-2: _Deploy Docker & Heroku_
-- [ ] 25-3: _[Projeto - Stranger Things] - Em Breve_
+- [X] 25-1: _Infraestrutura - Deploy com Heroku_
+- [X] 25-2: _Deploy Docker & Heroku_
+- [X] 25-3: _[Projeto - Stranger Things] - Em Breve_
 
 ##### Bloco 26: TypeScript
 
