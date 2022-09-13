@@ -22,4 +22,9 @@
 - [X] _Compreender o que são Generics_
 - [X] _Estruturar um model que usa os conceitos aprendidos_
 
+### Express com TypeScript
+
+- [X] _Configurar um projeto Node.js com TypeScript_
+- [X] _Criar uma aplicação Express com TypeScript_
+
 ### Projeto - TrybeSmith - Em Breve
