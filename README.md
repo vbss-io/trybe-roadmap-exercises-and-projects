@@ -191,14 +191,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 26-1: _Introdução ao TypeScript_
 - [X] 26-2: _Tipagem Estática e Generics_
-- [ ] 26-3: _Express com TypeScript_
-- [ ] 26-4: _[Projeto - Trybe Smith] - Em Breve_
+- [X] 26-3: _Express com TypeScript_
+- [X] 26-4: _[Projeto - Trybe Smith] - Em Breve_
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
-- [ ] 27-1: _Introdução a Orientação a Objetos_
-- [ ] 27-2: _Herança e Interfaces_
-- [ ] 27-3: _Polimorfismo_
+- [X] 27-1: _Introdução a Orientação a Objetos_
+- [X] 27-2: _Herança e Interfaces_
+- [X] 27-3: _Polimorfismo_
 - [ ] 27-4: _SOLID - Introdução e Princípios S, O e D_
 - [ ] 27-5: _SOLID - Princípios L e I_
 - [ ] 27-6: _[Projeto - Trybers and Dragons] - Em Breve_
