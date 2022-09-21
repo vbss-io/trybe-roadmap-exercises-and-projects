@@ -1,0 +1,16 @@
+{
+  "name": "dip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register ./tests/**/*.{test,spec}.[t,j]s"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.4.2",
+    "ts-node": "10.2.1"
+  }
+}
