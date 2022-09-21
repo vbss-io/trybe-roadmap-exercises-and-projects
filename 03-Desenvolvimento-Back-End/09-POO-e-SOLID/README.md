@@ -30,3 +30,10 @@
 - [X] _Descrever Classe Abstrata como uma classe que não pode ser instanciada, devendo ser usada apenas por suas Classes Herdeiras_
 - [X] _Definir Métodos Abstratos, ou Funções Abstratas_
 - [X] _Implementas Métodos Estáticos para Classes em TypeScript_
+
+### SOLID - Introdução e Princípios S, O e D
+
+- [X] _Escrever funções e classes que tenham uma única responsabilidade no escopo da sua aplicação_
+- [X] _Escrever classes com funções que estão abertas para extensão e fechadas para modificação_
+- [X] _Inverter dependências para dar a quem chama o controle sobre como uma função faz o que precisa_
+- 
