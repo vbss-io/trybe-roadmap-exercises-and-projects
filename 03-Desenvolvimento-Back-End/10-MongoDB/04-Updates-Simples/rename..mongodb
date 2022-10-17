@@ -1,0 +1,16 @@
+// Renomeando campos com o operador $rename
+
+use conteudo_trybe;
+db.fruits.insertOne(
+  { _id: 100, name: "Banana", quantity: 100, inStock: true }
+);
+
+db.fruits.updateOne(
+  { name: "Banana" },
+  { $rename: {
+      "name": "productName"
+    }
+  }
+);
+
+// { "_id" : 100, "productName" : "Banana", "quantity" : 100, "inStock" : true }
