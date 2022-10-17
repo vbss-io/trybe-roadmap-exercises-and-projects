@@ -209,11 +209,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 29: Introdução ao MongoDB
 
-- [ ] 29-1: _MongoDB - Introdução_
-- [ ] 29-2: _Filter Operators_
-- [ ] 29-3: _Operadores de consulta_
-- [ ] 29-4: _Updates Simples_
-- [ ] 29-5: _Updates Complexos - Arrays_
+- [X] 29-1: _MongoDB - Introdução_
+- [X] 29-2: _Filter Operators_
+- [X] 29-3: _Operadores de consulta_
+- [X] 29-4: _Updates Simples_
+- [X] 29-5: _Updates Complexos - Arrays_
 - [ ] 29-6: _[Projeto - Commerce] - Em Breve_
 
 ##### Bloco 30: MongoDB com Node.js e POO
