@@ -1,0 +1,16 @@
+// $regex
+
+// { _id: 100, sku: "abc123", description: "Single line description." },
+// { _id: 101, sku: "abc789", description: "First line\nSecond line" },
+// { _id: 102, sku: "xyz456", description: "Many spaces before     line" },
+// { _id: 103, sku: "xyz789", description: "Multiple\nline description" }
+
+db.products.find({ sku: { $regex: /789$/ } });
+
+// sku termine com 789
+
+db.products.find({ sku: { $regex: /^ABC/i } });
+
+// sku começa com ABC
+
+// i = case insensitive
