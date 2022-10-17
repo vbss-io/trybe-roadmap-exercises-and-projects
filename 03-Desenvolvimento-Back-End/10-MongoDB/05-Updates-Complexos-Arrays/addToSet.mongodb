@@ -1,0 +1,39 @@
+// Operador $addToSet
+
+// {
+//   _id: 1,
+//   item: "polarizing_filter",
+//   tags: ["electronics", "camera"],
+// }
+
+// Adicionando ao array
+
+db.inventory.updateOne(
+  { _id: 1 },
+  { $addToSet: { tags: "accessories" } },
+);
+
+// Se o valor existir
+
+// { "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 0 }
+
+// Com o modificador $each
+
+// { _id: 2, item: "cable", tags: ["electronics", "supplies"] }
+
+db.inventory.updateOne(
+  { _id: 2 },
+  {
+    $addToSet: {
+      tags: {
+        $each: ["camera", "electronics", "accessories"],
+      },
+    },
+  },
+);
+
+// {
+//   _id: 2,
+//   item: "cable",
+//   tags: ["electronics", "supplies", "camera", "accessories"],
+// }
