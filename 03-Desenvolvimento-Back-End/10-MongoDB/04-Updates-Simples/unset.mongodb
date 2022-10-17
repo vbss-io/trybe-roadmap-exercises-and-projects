@@ -1,0 +1,19 @@
+// Removendo campos com o operador $unset
+
+// {
+//   _id: 100,
+//   productName: "Banana",
+//   quantity: 100,
+//   inStock: true
+// }
+
+db.fruits.updateMany(
+  { productName: "Banana" },
+  { $unset: { quantity: "" } }
+);
+
+// {
+//   _id: 100,
+//   productName: "Banana",
+//   inStock: true
+// }

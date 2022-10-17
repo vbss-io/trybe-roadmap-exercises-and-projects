@@ -1,0 +1,59 @@
+// Operadores $min e $max
+
+// [
+//   { _id: 1, campo: 25 },
+//   { _id: 2, campo: 50 },
+//   { _id: 3, campo: 100 }
+// ]
+
+db.collection.updateMany({}, { $max: { campo: 75 } });
+// Atualizando todos os valores do atributo "campo"
+// para 75 caso sejam menores
+
+db.collection.find();
+
+// [
+//   { _id: 1, campo: 75 },
+//   { _id: 2, campo: 75 },
+//   { _id: 3, campo: 100 }
+// ]
+
+db.collection.updateMany({}, { $min: { campo: 42 } });
+// Atualizando todos os valores do atributo "campo"
+// para 42 caso sejam maiores
+
+db.collection.find();
+
+// [
+//   { _id: 1, campo: 42 },
+//   { _id: 2, campo: 42 },
+//   { _id: 3, campo: 42 }
+// ]
+
+// Comparando datas
+
+use conteudo_trybe;
+db.tags.insertOne(
+  {
+    _id: 1,
+    desc: "crafts",
+    dateEntered: ISODate("2019-10-01T05:00:00Z"),
+    dateExpired: ISODate("2019-10-01T16:38:16Z")
+  }
+);
+
+db.tags.update(
+  { _id: 1 },
+  {
+    $min: { dateEntered: new Date("2019-09-25") },
+    $max: { dateExpired: new Date("2019-10-02") }
+  }
+);
+
+// [
+//   {
+//     _id: 1,
+//     desc: "crafts",
+//     dateEntered: ISODate("2019-09-25T03:00:00Z"),
+//     dateExpired: ISODate("2019-10-02T03:00:00Z")
+//   }

@@ -1,0 +1,33 @@
+// Método Update
+
+db.colecao.updateOne(<filtro>, <update>, <opcoes>);
+db.colecao.updateMany(<filtro>, <update>, <opcoes>).
+
+// {
+//   <operador>: { <campo1>: <valor1>, ... },
+//   <operador>: { <campo2>: <valor2>, ... },
+//   ...
+// }
+
+// Um único documento
+
+db.inventory.updateOne(
+  { item: "paper" },
+  { $set: { "size.uom": "cm", status: "P" } }
+);
+
+db.colecao.updateOne(
+  {},
+  { $set: { "size.uom": "cm", status: "P" } }  
+)
+
+// Atualiza o primeiro documento da coleção
+
+// Múltiplos documentos
+
+db.inventory.updateMany(
+  { "qty": { $lt: 50 } },
+  { $set: { "size.uom": "in", status: "P" } }
+);
+
+// Filtro vázio atualiza todos os documentos da coleção
