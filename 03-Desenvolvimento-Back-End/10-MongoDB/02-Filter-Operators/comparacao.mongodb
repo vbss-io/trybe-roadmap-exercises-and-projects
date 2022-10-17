@@ -1,0 +1,26 @@
+// { <campo>: { <operador>: <valor> } }
+
+// $lt = menor que
+db.inventory.find({ qty: { $lt: 20 } })
+
+// $lte = menor ou igual que
+db.inventory.find({ qty: { $lte: 20 } })
+
+// $gt = maior que
+db.inventory.find({ qty: { $gt: 20 } })
+
+// $gte = maior ou igual que
+db.inventory.find({ qty: { $gte: 20 } })
+
+// $eq = igual
+db.inventory.find({ qty: { $eq: 20 } })
+// db.inventory.find({ qty: 20 })
+
+// $ne = diferente
+db.inventory.find({ qty: { $ne: 20 } })
+
+// $in = dentro de um array
+db.inventory.find({ qty: { $in: [ 5, 15 ] } })
+
+// $nin = não está dentro de um array
+db.inventory.find({ qty: { $nin: [ 5, 15 ] } })

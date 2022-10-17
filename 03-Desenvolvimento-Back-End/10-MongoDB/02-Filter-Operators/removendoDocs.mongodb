@@ -1,0 +1,13 @@
+// Removendo documentos
+
+// deleteOne()
+db.inventory.deleteOne({ status: "D" })
+
+// deleteMany()
+db.inventory.deleteMany({ status: "A" })
+
+// deletar todos os documentos
+db.inventory.deleteMany({})
+
+// dropDatabase()
+db.inventory.dropDatabase()
