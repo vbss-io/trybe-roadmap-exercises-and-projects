@@ -1,0 +1,22 @@
+// Método sort()
+
+// db.colecao.find().sort({ "campo": "1 ou -1"})
+// 1 = crescente ou alfabetica
+// -1 = decrescente ou inversa
+
+db.example.find({}, { value, name }).sort({ value: -1 }, { name: 1 })
+
+db.colecao.find().sort({ nomeDoAtributo: 1 }) // certo
+db.colecao.sort({ nomeDoAtributo: 1 }) // errado
+
+// Exemplo
+
+db.example.insertMany([
+    { "name": "Mandioquinha Frita", "price": 14 },
+    { "name": "Litrão", "price": 8 },
+    { "name": "Torresmo", "price": 16 }
+])
+
+db.example.find().sort({ "price": 1 }).pretty()
+
+db.example.find().sort({ "price": -1 }, { "name" : 1 }).pretty()

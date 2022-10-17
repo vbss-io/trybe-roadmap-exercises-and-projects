@@ -1,0 +1,4 @@
+// { campo: { $exists: <boolean> } }
+
+db.inventory.find({ qty: { $exists: true } })
+db.inventory.find({ qty: { $exists: true, $nin: [ 5, 15 ] } })
