@@ -1,0 +1,14 @@
+// $all
+db.inventory.find(
+  { tags: { $all: [ "ssl", "security" ] } }
+);
+
+// Alternativa $and
+db.inventory.find(
+  {
+    $and: [
+      { tags: "ssl" },
+      { tags: "security" }
+    ]
+  }
+);
