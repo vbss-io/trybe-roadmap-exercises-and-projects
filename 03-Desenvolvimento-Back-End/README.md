@@ -88,8 +88,8 @@ O Módulo de Back-End aprofunda em tecnologias como Docker, MySQL, Node.js, Type
 
 ##### Bloco 30: MongoDB com Node.js e POO
 
-- [X] 30-1: _MongoDB e arquitetura MSC_
-- [ ] 30-2: _MongoDB e POO_
+- [X] 30-1: _MongoDB e POO e arquitetura MSC - Model_
+- [ ] 30-2: _MongoDB e POO e arquitetura MSC - Model, Service e Controller_
 - [ ] 30-3: _[Projeto - Car Shop] - Em Breve_
 
 ##### Bloco 31: Projeto - App Delivery
