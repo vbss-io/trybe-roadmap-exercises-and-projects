@@ -8,10 +8,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Fundamentos do Desenvolvimento Web](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web) :white_check_mark:
 
-##### Bloco 1: [Introdução - Unix & Bash](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/01-Unix-e-Bash)
+##### Bloco 1: [Introdução - Unix & Shell](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/01-Unix-e-Bash)
 
-- [X] 1-3: _Unix & Bash- Part 1_
-- [X] 1-4: _Unix & Bash- Part 2_
+- [X] 1-3: _Unix & Shell- Part 1_
+- [X] 1-4: _Unix & Shell- Part 2_
 
 ##### Bloco 2: [Git & GitHub](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/02-Git-GitHub-e-Internet)
 
@@ -53,6 +53,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 6-5: _CSS Responsivo - Mobile First_
 - [X] 6-6: _[Projeto - TrybeWarts Form - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/06-HTML-e-CSS-Forms-Flexbox-e-Responsivo/06-Projeto-TrybeWarts-Form)_
 
+
 ##### Bloco 7: [JavaScript ES6 & Testes Unitários](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/01-Fundamentos-do-Desenvolvimento-Web/07-Introducao-JavaScript-ES6-e-Testes-Unitarios)
 
 - [X] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
@@ -88,25 +89,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 11-1: _Componentes com estado e eventos_
 - [X] 11-2: _Formulários no React_
-- [X] 11-3: _[Projeto - TryUnfo] - Em Breve_
+- [X] 11-3: _[Projeto - TryUnfo]_
 
 ##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/03-Ciclo-de-vida-Componentes-e-React-Router)
 
 - [X] 12-1: _Ciclo de vida de componentes_
 - [X] 12-2: _React Router_
-- [X] 12-3: _[Projeto - TrybeTunes] - Em Breve_
+- [X] 12-3: _[Projeto - TrybeTunes]_
 
 ##### Bloco 13: [Metodologias Ágeis](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/04-Metodologias-Ageis)
 
 - [X] 13-1: _Metodologias Ágeis_
-- [X] 13-2: _[Projeto - Frontend Online Store] - Em Breve_
+- [X] 13-2: _[Projeto - Frontend Online Store]_
 
 ##### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/05-Testes-automatizados-RTL)
 
 - [X] 14-1: _RTL - Primeiros Passos_
 - [X] 14-2: _RTL - Mocks e Inputs_
 - [X] 14-3: _RTL - Testando React Router_
-- [X] 14-4: _[Projeto - Testes em React] - Em Breve_
+- [X] 14-4: _[Projeto - Testes em React]_
 
 ##### Bloco 15: [Gerenciamento de Estados com Redux](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/06-Gerenciamento-de-estado-Redux)
 
@@ -115,11 +116,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 15-3: _Usando o Redux no React - Prática_
 - [X] 15-4: _Usando o Redux no React - Actions Assíncronas_
 - [X] 15-5: _Testes em React-Redux_
-- [X] 15-6: _[Projeto - Trybe Wallet] - Em Breve_
+- [X] 15-6: _[Projeto - Trybe Wallet]_
 
 ##### Bloco 16: [Projeto Trivia - React](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/07-Projeto-Jogo-Trivia)
 
-- [X] 16-1: _[Projeto - Jogo de Trivia] - Em Breve_
+- [X] 16-1: _[Projeto - Jogo de Trivia]_
 
 ##### Bloco 17: [Context API e React Hooks](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/08-ContextAPI-e-React-Hooks)
 
@@ -128,20 +129,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [X] 17-4: _[Projeto - StarWars DataTable com Context API e Hooks - Aplicação](https://vitorbss12.github.io/StarWars-React-DataTable/) - [Repositório](https://github.com/vitorbss12/StarWars-React-DataTable)_
 
-##### Bloco 18: [Projeto Final de Front-end](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/09-Projeto-App-de-Receitas)
+##### Bloco 18: Projeto Final de Front-end
 
-- [X] 18-1: _[Projeto - App de Receitas] - Em Breve_
+- [X] 18-1: _[Projeto - App de Receitas - Aplicação](https://vitorbss12.github.io/Recipe-App-with-React-and-ContextAPI/) - [Repositório](https://github.com/vitorbss12/Recipe-App-with-React-and-ContextAPI)_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 19: Docker: Utilizando Containers
+##### Bloco 19: [Docker: Utilizando Containers](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/01-Docker-Utilizando-Containers)
 
 - [X] 19-1: _Docker - Introdução_
 - [X] 19-2: _Manipulando Imagens no Docker_
 - [X] 19-3: _Orquestrando Containers com Docker Compose_
 - [X] 19-4: _[Projeto - Docker Todo-List - Repositório](https://github.com/vitorbss12/Trybe-Exercicios-e-Projetos/tree/master/03-Desenvolvimento-Back-End/01-Docker-Utilizando-Containers/04-Projeto-Docker-TODO-List)_
 
-##### Bloco 20: Introdução à SQL
+##### Bloco 20: [Introdução à SQL](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/02-Introducao-SQL)
 
 - [X] 20-1: _Banco de dados SQL_
 - [X] 20-2: _Encontrando dados em um banco de dados_
@@ -149,116 +150,116 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 20-4: _Manipulando tabelas_
 - [X] 20-5: _[Projeto - All For One - Repositório](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/02-Introducao-SQL/05-Projeto-All-For-One-MySQL)_
 
-##### Bloco 21: Funções SQL, JOINs e Normalização
+##### Bloco 21: [Funções SQL, JOINs e Normalização](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/03-Funcoes-SQL-JOINs-Normalizacao)
 
 - [X] 21-1: _Funções mais usadas no SQL_
 - [X] 21-2: _Descomplicando JOINs_
 - [X] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [X] 21-4: _[Projeto - One For All] - Em Breve_
+- [X] 21-4: _[Projeto - One For All]_
 
-##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
+##### Bloco 22: [Introdução ao desenvolvimento Web com Node.js](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/04-Intro-Desenvolvimento-Web-NodeJs)
 
 - [X] 22-1: _Node.js - Runtime Assíncrono_
 - [X] 22-2: _Node.js - API REST com Express_
 - [X] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [X] 22-4: _Express - Middlewares_
 - [X] 22-5: _Node.js - Express e MySql_
-- [X] 22-6: _[Projeto - Talker Manager] - Em Breve_
+- [X] 22-6: _[Projeto - Talker Manager]_
 
-##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+##### Bloco 23: [Node.js: Camada de Serviço e Arquitetura Rest e Restful](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/05-NodeJs-Camada-de-Servico-e-Arquitetura-Rest-e-Restful)
 
 - [X] 23-1: _Arquitetura de Software - Camada de Model_
 - [X] 23-2: _Arquitetura de Software - Camada de Controller e Service_
 - [X] 23-3: _Arquitetura Web - Rest e Restful_
 - [X] 23-4: _Arquitetura de Software - Testando as Camadas_
-- [X] 23-5: _[Projeto - Store Manager] - Em Breve_
+- [X] 23-5: _[Projeto - Store Manager]_
 
-##### Bloco 24: Node.js: ORM e Autenticação
+##### Bloco 24: [Node.js: ORM e Autenticação](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/06-NodeJs-ORM-e-Autenticacao)
 
 - [X] 24-1: _ORM - Interface da aplicação com o banco de dados_
 - [X] 24-2: _ORM - Associations_
 - [X] 24-3: _JWT - (JSON Web Token)_
 - [X] 24-4: _Testando APIs com Testes de Integração_
-- [X] 24-5: _[Projeto - API de Blogs] - Em Breve_
+- [X] 24-5: _[Projeto - API de Blogs - Repositório](https://github.com/vitorbss12/API-for-Blogs-with-Express-Sequelize-MySQL)_
 
-##### Bloco 25: Deployment
+##### Bloco 25: [Deployment](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/07-Deployment)
 
 - [X] 25-1: _Infraestrutura - Deploy com Heroku_
 - [X] 25-2: _Deploy Docker & Heroku_
-- [X] 25-3: _[Projeto - Stranger Things] - Em Breve_
+- [X] 25-3: _[Projeto - Stranger Things]_
 
-##### Bloco 26: TypeScript
+##### Bloco 26: [TypeScript](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/08-TypeScript)
 
 - [X] 26-1: _Introdução ao TypeScript_
 - [X] 26-2: _Tipagem Estática e Generics_
 - [X] 26-3: _Express com TypeScript_
-- [X] 26-4: _[Projeto - Trybe Smith] - Em Breve_
+- [X] 26-4: _[Projeto - Trybe Smith]_
 
-##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
+##### Bloco 27: [Programação Orientada a Objetos (POO) e SOLID](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/09-POO-e-SOLID)
 
 - [X] 27-1: _Introdução a Orientação a Objetos_
 - [X] 27-2: _Herança e Interfaces_
 - [X] 27-3: _Polimorfismo_
 - [X] 27-4: _SOLID - Introdução e Princípios S, O e D_
-- [ ] 27-5: _SOLID - Princípios L e I_
-- [ ] 27-6: _[Projeto - Trybers and Dragons] - Em Breve_
+- [X] 27-5: _SOLID - Princípios L e I_
+- [X] 27-6: _[Projeto - Trybers and Dragons]_
 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol CLube
 
-- [ ] 28-1: _[Projeto - Trybe Futebol Clube] - Em Breve_
+- [X] 28-1: _[Projeto - Trybe Futebol Clube - Repositório](https://github.com/vitorbss12/FullStack-App-Football-Championship-Scoreboard)_
 
-##### Bloco 29: Introdução ao MongoDB
+##### Bloco 29: [Introdução ao MongoDB](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/10-MongoDB)
 
 - [X] 29-1: _MongoDB - Introdução_
 - [X] 29-2: _Filter Operators_
 - [X] 29-3: _Operadores de consulta_
 - [X] 29-4: _Updates Simples_
 - [X] 29-5: _Updates Complexos - Arrays_
-- [ ] 29-6: _[Projeto - Commerce] - Em Breve_
+- [X] 29-6: _[Projeto - Commerce]_
 
-##### Bloco 30: MongoDB com Node.js e POO
+##### Bloco 30: [MongoDB com Node.js e POO](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/11-MongoDB-Node-POO)
 
 - [X] 30-1: _MongoDB e POO e arquitetura MSC - Model_
-- [ ] 30-2: _MongoDB e POO e arquitetura MSC - Model, Service e Controller_
-- [ ] 30-3: _[Projeto - Car Shop] - Em Breve_
+- [X] 30-2: _MongoDB e POO e arquitetura MSC - Model, Service e Controller_
+- [X] 30-3: _[Projeto - Car Shop]_
 
 ##### Bloco 31: Projeto - App Delivery
 
-- [ ] 31-1: _[Projeto - App Delivery] - Em Breve_
+- [X] 31-1: _[Projeto - App Delivery]_
 
 ##### Bloco 32: MasterClass - VPS, CI/CD
 
-- [ ] 32-1: _Dia 1_
-- [ ] 32-2: _Dia 2_
+- [X] 32-1: _Dia 1_
+- [X] 32-2: _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33: Introdução à Python
 
-- [ ] 33-1: _Aprendendo Python_
+- [X] 33-1: _Aprendendo Python_
 - [ ] 33-2: _Entradas e Saídas de Dados_
 - [ ] 33-3: _Testes_
-- [ ] 33-4: _[Projeto - Job Insights] - Em Breve_
+- [ ] 33-4: _[Projeto - Job Insights]_
 
 ##### Bloco 34: Padrões de Projeto
 
 - [ ] 34-1: _POO em Python_
 - [ ] 34-2: _Padrões - Iterator, Adapter, Strategy_
 - [ ] 34-3: _Padrões - Decorator, Observer, Factory_
-- [ ] 34-4: _[Projeto - Relatório de Estoque] - Em Breve_
+- [ ] 34-4: _[Projeto - Relatório de Estoque]_
 
 ##### Bloco 35: Redes e Raspagem de Dados
 
 - [ ] 35-1: _Arquitetura de Redes, ferramentas e segurança_
 - [ ] 35-2: _Raspagem de Dados_
-- [ ] 35-3: _[Projeto - Tech news] - Em Breve_
+- [ ] 35-3: _[Projeto - Tech news]_
 
 ##### Bloco 36: Algoritmos
 
 - [ ] 36-1: _Complexidade de Algoritmos_
 - [ ] 36-2: _Recursividade e Estratégias para solução de problemas_
 - [ ] 36-3: _Algoritmos de ordenação e busca_
-- [ ] 36-4: _[Projeto - Algoritmos] - Em Breve_
+- [ ] 36-4: _[Projeto - Algoritmos]_
 
 ##### Bloco 37: Estrutura de Dados I - Arrays, Listas, Filas e Pilhas
 
@@ -266,12 +267,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 37-2: _Arrays_
 - [ ] 37-3: _Nós e Listas Encadeadas_
 - [ ] 37-4: _Pilhas e Filas_
-- [ ] 37-5: _[Projeto - TING - Trybe Is Not Google] - Em Breve_
+- [ ] 37-5: _[Projeto - TING - Trybe Is Not Google]_
 
 ##### Bloco 38: Estrutura de Dados II - Hashmaps e Sets
 
 - [ ] 38-1: _Hashmap e Dict_
 - [ ] 38-2: _Set_
-- [ ] 38-3: _[Projeto - Restaurant Orders] - Em Breve_
+- [ ] 38-3: _[Projeto - Restaurant Orders]_
 
 # [...]

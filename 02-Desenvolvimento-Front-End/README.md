@@ -14,25 +14,25 @@ O Módulo de Front-End se aprofunda no desenvolvimento de aplicações Front-End
 
 - [X] 11-1: _Componentes com estado e eventos_
 - [X] 11-2: _Formulários no React_
-- [X] 11-3: _[Projeto - TryUnfo] - Em Breve_
+- [X] 11-3: _[Projeto - TryUnfo]_
 
 ##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/03-Ciclo-de-vida-Componentes-e-React-Router)
 
 - [X] 12-1: _Ciclo de vida de componentes_
 - [X] 12-2: _React Router_
-- [X] 12-3: _[Projeto - TrybeTunes] - Em Breve_
+- [X] 12-3: _[Projeto - TrybeTunes]_
 
 ##### Bloco 13: [Metodologias Ágeis](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/04-Metodologias-Ageis)
 
 - [X] 13-1: _Metodologias Ágeis_
-- [X] 13-2: _[Projeto - Frontend Online Store] - Em Breve_
+- [X] 13-2: _[Projeto - Frontend Online Store]_
 
 ##### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/05-Testes-automatizados-RTL)
 
 - [X] 14-1: _RTL - Primeiros Passos_
 - [X] 14-2: _RTL - Mocks e Inputs_
 - [X] 14-3: _RTL - Testando React Router_
-- [X] 14-4: _[Projeto - Testes em React] - Em Breve_
+- [X] 14-4: _[Projeto - Testes em React]_
 
 ##### Bloco 15: [Gerenciamento de Estados com Redux](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/06-Gerenciamento-de-estado-Redux)
 
@@ -41,11 +41,11 @@ O Módulo de Front-End se aprofunda no desenvolvimento de aplicações Front-End
 - [X] 15-3: _Usando o Redux no React - Prática_
 - [X] 15-4: _Usando o Redux no React - Actions Assíncronas_
 - [X] 15-5: _Testes em React-Redux_
-- [X] 15-6: _[Projeto - Trybe Wallet] - Em Breve_
+- [X] 15-6: _[Projeto - Trybe Wallet]_
 
 ##### Bloco 16: [Projeto Trivia - React](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/07-Projeto-Jogo-Trivia)
 
-- [X] 16-1: _[Projeto - Jogo de Trivia] - Em Breve_
+- [X] 16-1: _[Projeto - Jogo de Trivia]_
 
 ##### Bloco 17: [Context API e React Hooks](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/08-ContextAPI-e-React-Hooks)
 
@@ -54,8 +54,8 @@ O Módulo de Front-End se aprofunda no desenvolvimento de aplicações Front-End
 - [X] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [X] 17-4: _[Projeto - StarWars DataTable com Context API e Hooks - Aplicação](https://vitorbss12.github.io/StarWars-React-DataTable/) - [Repositório](https://github.com/vitorbss12/StarWars-React-DataTable)_
 
-##### Bloco 18: [Projeto Final de Front-end](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/02-Desenvolvimento-Front-End/09-Projeto-App-de-Receitas)
+##### Bloco 18: Projeto Final de Front-end
 
-- [X] 18-1: _[Projeto - App de Receitas] - Em Breve_
+- [X] 18-1: _[Projeto - App de Receitas - Aplicação](https://vitorbss12.github.io/Recipe-App-with-React-and-ContextAPI/) - [Repositório](https://github.com/vitorbss12/Recipe-App-with-React-and-ContextAPI)_
 
 # [...]

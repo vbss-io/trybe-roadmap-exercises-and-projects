@@ -1,1 +1,0 @@
-### Projeto - Jogo de Trivia - Em breve
