@@ -133,7 +133,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [X] 18-1: _[Projeto - App de Receitas - Aplicação](https://vitorbss12.github.io/Recipe-App-with-React-and-ContextAPI/) - [Repositório](https://github.com/vitorbss12/Recipe-App-with-React-and-ContextAPI)_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end :white_check_mark:
 
 ##### Bloco 19: [Docker: Utilizando Containers](https://github.com/vitorbss12/Trybe-Roadmap-Exercises-and-Projects/tree/master/03-Desenvolvimento-Back-End/01-Docker-Utilizando-Containers)
 
