@@ -1,13 +1,4 @@
-# Introdução a Python
-
 ## Hard Skills Desenvolvidas
-
-### Aprendendo Python
-
-- [X] _Utilizar o terminal interativo do Python_
-- [X] _Entender e utilizar estruturas condicionais (se, senão se, senão) e de repetição (enquanto, para)_
-- [X] _Criar funções para reutilização de código_
-- [X] _Escrever seus próprios módulos e importá-los em outros códigos_
 
 ### Entrada e Saída de Dados
 
@@ -17,3 +8,10 @@
 - [X] _Receber dados de pessoas usuárias, assim como enviá-los de volta_
 - [X] _Ler e escrever arquivos no formato tabular CSV_
 - [X] _Serializar e desserializar dados no formato JSON_
+
+#### Resumo
+
+Ambiente Virtual:
+````bash
+python3 -m venv .venv
+````
