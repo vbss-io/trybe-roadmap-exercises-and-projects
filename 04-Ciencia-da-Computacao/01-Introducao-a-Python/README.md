@@ -17,3 +17,10 @@
 - [X] _Receber dados de pessoas usuárias, assim como enviá-los de volta_
 - [X] _Ler e escrever arquivos no formato tabular CSV_
 - [X] _Serializar e desserializar dados no formato JSON_
+
+### Testes
+
+- [X] _Escrever testes automatizados utilizando a linguagem Python_
+- [X] _Verificar a ocorrência de erros esperados utilizando testes automatizados_
+- [X] _Criar contextos para execução de testes automatizados_
+- [X] _Modificar componentes do software para evitar a utilização de recursos externos_
